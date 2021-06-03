@@ -1,0 +1,1450 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gerania a new discovery of a little sort of people, anciently discoursed of, called pygmies : with a lively description of their stature, habit, manners, buildings, knowledge, and government being very delightful and profitable / by Joshua Barnes.</title>
+            <author>Barnes, Joshua, 1654-1712.</author>
+         </titleStmt>
+         <extent>Approx. 110KB of XML-encoded text transcribed from 64 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17502</idno><idno type="EEBO-CITATION">9713632</idno>
+  <idno type="VID">204489</idno>
+  <idno type="EEBO-PROQUEST">2264207364</idno>
+  
+            <idno type="STC">Wing B870</idno>
+            <idno type="OCLC">09713632</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17502)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204489)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1348:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gerania a new discovery of a little sort of people, anciently discoursed of, called pygmies : with a lively description of their stature, habit, manners, buildings, knowledge, and government being very delightful and profitable / by Joshua Barnes.</title>
+                  <author>Barnes, Joshua, 1654-1712.</author>
+               </titleStmt>
+               <extent>[4], 110, [10] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W.G. for Obadiah Blagrave,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: A discovery of the pygmies.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Pygmies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:204489:1"/>
+            <p>
+               <figure>
+                  <p>
+                     <hi>A New Discovery of a Little Sort of People called</hi> PYGMIES.</p>
+                  <p>
+                     <hi>Printed for Obadiah Blagrave</hi>
+                  </p>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:204489:1"/>
+            <p>
+               <hi>GERANIA:</hi> A NEW DISCOVERY <hi>OF A</hi> Little sort of PEOPLE <hi>Anciently Discoursed of, called</hi> PYGMIES.</p>
+            <p>
+               <hi>With a lively Description</hi> Of their Stature, Habit, Manners, Buildings, Know<g ref="char:EOLhyphen"/>ledge, and Government, being very delightful and profitable.</p>
+            <p>By <hi>JOSHUA BARNES,</hi> of <hi>Emanuel College, Cambridge.</hi>
+            </p>
+            <q>
+               <hi>Iugentes animos angusto in Corpore versant.</hi>
+               <bibl>Virg.</bibl>
+            </q>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <bibl>Hesiod.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. G.</hi> for <hi>Obadiah Blagrave,</hi> at the Sign of the <hi>Printing-press,</hi> over against the <hi>Pump</hi> in <hi>Little-Britain,</hi> 1675.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:204489:2"/>
+            <pb facs="tcp:204489:2"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <p>THere is such an innate principle in the Hearts of most Men, that they are able to admit nothing for currant, but what is obvious, nor reckon any thing credible, unless it be visible: But seeing almost every Climate doth pecu<g ref="char:EOLhyphen"/>liarly afford something rare and unusual, it stands with reason, that some Climate should in
+<pb facs="tcp:204489:3"/>especial manner produce some more extraordinary Novelty, if not to others incredible, yet at least wonderful, and not easily digested for a truth.</p>
+            <p>That there is a Nation of Men, called <hi>Pygmies,</hi> hath been a<g ref="char:EOLhyphen"/>verred by Authors of pregnant Ingenuity, solid Judgement, and authentick Esteem; and though many have omitted a due inquest into this matter, yet such and so many have given their suffrages for the certainty of it, that we may without the impu<g ref="char:EOLhyphen"/>tation of credulity account it no fable. And why should it be thought improbable, that Nature (who continually delights to
+<pb facs="tcp:204489:3"/>embroider this Frame of Being, with variety of Creatures) should somewhere produce Men of a smaller Character than our selves, considering those Capital Letters (Gyants I mean) have been known so far to exceed us on the other side? That it is not unbefitting the way of natural Productions, we may quickly ascertain our minds, if we do but reflect on those many <hi>Pumi<g ref="char:EOLhyphen"/>lio's</hi> and <hi>Tom-thumb's,</hi> which even among People of the largest size are frequently exhibited as Examples of the other Copies. But having only given an occa<g ref="char:EOLhyphen"/>sion here for others to exercise their ratiocination, I shall con<g ref="char:EOLhyphen"/>tent
+<pb facs="tcp:204489:4"/>my self with this concise preamble, as satisfactory enough to the Judicious, who indeed may better perswade themselves by more important reasons, which their own due considera<g ref="char:EOLhyphen"/>tion may suggest unto them, and so begin my intended Discourse, if not altogether true, yet not wholly vain, nor perhaps defici<g ref="char:EOLhyphen"/>ent, in what may exhilerate a Witty Fancy, or inform a bad Moralist.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:204489:4"/>
+            <head>
+               <hi>GERANIA:</hi> OR, NEWS FROM THE PYGMIES.</head>
+            <p>ON the Seventh of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> failing as pleasantly on the <hi>Ganges</hi> as the natural impetuosity of that Stream would permit, the Weather changing on a suddain, our Ship Veer'd about to the Lar<g ref="char:EOLhyphen"/>board, and we were driven by a violent cold and dry North wind, into a narrow Arm of a great Lake on the utmost Borders of <hi>India,</hi>
+               <pb n="2" facs="tcp:204489:5"/>that takes its rise from one common head with that famous River; there having escaped that direful em<g ref="char:EOLhyphen"/>brace, which the inhospitable Waves had seem'd to profer us, we proceeded so slowly, as if a <hi>Re<g ref="char:EOLhyphen"/>mora</hi> had held our Keel, or rather as if we had cast Anchor in the <hi>Mare Mortuum;</hi> but having at last with much labour conquer'd Three Leagues towards the nearest Land, in about eight and twenty hours, we began to ease our selves, by desisting from our toyl, and by a general participation of the residue of our Victuals, which as yet held out as we desired. After this re<g ref="char:EOLhyphen"/>freshment, the golden Rayes of <hi>Phaethon</hi> began to make the Eastern Mountains blush, that all their costly Stones and glittering Sands, were not sufficiently rich and august, to welcome so illustrious a Monarch; and the gentle Breezes
+<pb n="3" facs="tcp:204489:5"/>of the Lake having on the Shoar saluted the delicious fannings of <hi>Aurora,</hi> return'd to us in soft whisperings, and assured us of the arrival of that Rosie-fingred Queen. At this, I and two of my Friends advanced our selves on the Deck, and at the same time the glorious Prince of Day seem'd to add speed to his fiery Horses, and return our Complement in a nearer approach to us. But how soon were our thoughts divided betwixt fear and admiration; while the Mountains, which but now appeared to us as flaming, began to confess them<g ref="char:EOLhyphen"/>selves of that more innocent and amiable Lustre, which attends the brightest of Metals, when it is bur<g ref="char:EOLhyphen"/>nished most surprizingly? We ga<g ref="char:EOLhyphen"/>zed something earnestly at this amazing spectacle, and proposing to our hopes no less than Golden Mountains, we still fixing our
+<pb n="4" facs="tcp:204489:6"/>Eyes on that desireable object, 'till a suddain noise of the rusling of Leaves alarum'd our Ears, which kept sentinel at the side portals of our Brain, and they recalling our Eyes from their studious curiosity, sent them towards the Shoar, as He<g ref="char:EOLhyphen"/>ralds, to enquire the reason of that so easie disturbance. Where we beheld a few Persons, whom we thought Men, Inhabitants of that place; though they sent no Voices to frighten or invite us, but only certain mimical and ridiculous Gestures, from whence notwith<g ref="char:EOLhyphen"/>standing, we might soon collect, that they profess'd us no ill-will. With which encouraged, we re<g ref="char:EOLhyphen"/>doubled our endeavours to reach the Land, and a stedfast blast or two backing our design, that in less than an hour we touch'd the Shoar, where we might easily discern, that our Invitants forbore to welcome us
+<pb n="5" facs="tcp:204489:6"/>with acclamations, or with obli<g ref="char:EOLhyphen"/>ging words, to complement us to a nearer access, not because they lack'd Civility, but wanted those channels of Expression, which we call Mouths. Their Posture, though something uncouth, was not so rude, but that it declared them to be so far different from Brutes, that nothing seem'd absent, which might make them compleat Men, but the Gentleman-Usher of all Knowledge, <hi>Sermocination.</hi> On their Heads they proudly wore green Boughs, the wanton Leaves whereof, seem'd desirous to show themselves by their soft whispering, more Vocal than their Bearers. Their Habit was of the woolly Moss of Trees, most artificially cemented with Gum, and inter<g ref="char:EOLhyphen"/>spersed with delectable Posies; a<g ref="char:EOLhyphen"/>bout their Necks they wore plea<g ref="char:EOLhyphen"/>sant chains of odoriferous Flowers,
+<pb n="6" facs="tcp:204489:7"/>the smell whereof is their chiefest aliment, except that of a certain lushious and nourishing Juice, which they suck thorough a small Tube or Pipe, into that little Ori<g ref="char:EOLhyphen"/>fice, which Nature hath granted them in the place and stead of Mouths. Their Legs are destitute of any other covering, but what their natural Hair supplies them with; but the Nails of both Hands and Feet were augmented to such a length, by their Sylvan Diet and Ignorance of more humane ways, that they served them instead of Weapons, against the strongest wild Beast, who was alwayes too weak for them; and with those they dug up Flowers and Plants, as they pleased. They received us with no vulgar Civility, expres<g ref="char:EOLhyphen"/>sing by their nodds and loquacious motions of their active Limbs, no small pride at our presence. But
+<pb n="7" facs="tcp:204489:7"/>poor Creatures! Alass, our stock of Victuals was but low, and we were not so good Chamaeleons as they, to live upon Air, neither could their fragrant Chapplets pre<g ref="char:EOLhyphen"/>vent our Famishment, if we staid longer there. Wherefore being soon weary of their dumb conver<g ref="char:EOLhyphen"/>sation, we resolved in time, to seek some other People, whose liberali<g ref="char:EOLhyphen"/>ty might store us with Provision for another Voyage, and whose community of living, being not so abhorrent from ours, might make them more sensible of our necessi<g ref="char:EOLhyphen"/>ties, and so more prone to relieve them. To which end, having left twenty Men in the Ship, and all the remaining Victuals, (which was enough to last them five or six days) and solemnly promising not to go far, but to find out some place, and return again within six or seven days; after Breakfast, on <hi>Monday</hi>
+               <pb n="8" facs="tcp:204489:8"/>Morning, and Prayers for the Di<g ref="char:EOLhyphen"/>vine protection and direction, all the rest of our Company (which was thirty five) being directed by the signs of the <hi>Astomi</hi> (for so these People are called) went straight up towards the Mountains. It was now spring time of the Year, yet notwithstanding the warmth of the Season, the Mountains were cloathed with a double Garment, the embroidered Vest of <hi>Flora,</hi> and the Eye-dazling Mantle of <hi>Phaebus,</hi> and while they glittered in their eminence and apparel, the aemulous Valleys raised their swelling breasts of Corn to such an exuberance of height, as if they intended to make the Mountains acknowledge them<g ref="char:EOLhyphen"/>selves inferiour to them: Which lovely contention, was such an incentive to the Poetical Genius of one in our Company, that he could not forbear exonerating his Fancy in this Gratulatory manner.</p>
+            <lg n="1">
+               <pb n="9" facs="tcp:204489:8"/>
+               <head>I.</head>
+               <l>
+                  <hi>Where are We, Muses? Only you</hi>
+               </l>
+               <l>
+                  <hi>Can tell this lovely place;</hi>
+               </l>
+               <l>
+                  <hi>Where</hi> Flora <hi>doth her youth renew,</hi>
+               </l>
+               <l>
+                  <hi>And adds each day new lustre to her face.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>
+                  <hi>Is this fair</hi> Tempe? <hi>Or the Clime</hi>
+               </l>
+               <l>
+                  <hi>Where you with Graces dwell;</hi>
+               </l>
+               <l>
+                  <hi>For</hi> Ceres <hi>here is in her prime,</hi>
+               </l>
+               <l>
+                  <hi>And</hi> Bacchus <hi>joy doth in each clustre swell?</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>
+                  <hi>Is it</hi> Elizium? No, <hi>oh! no!</hi>
+               </l>
+               <l>
+                  <hi>For here</hi> Sol <hi>shows his rays;</hi>
+               </l>
+               <l>
+                  <hi>And Fruits and Flowers for Men do grow;</hi>
+               </l>
+               <l>
+                  <hi>Souls in</hi> Elizium <hi>live not by such ways.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>
+                  <hi>What ever place 'tis call'd, thrice blest</hi>
+               </l>
+               <l>
+                  <hi>Are those that here do live:</hi>
+               </l>
+               <l>
+                  <hi>But Nature sure, spares in the rest,</hi>
+               </l>
+               <l>
+                  <hi>When she these blessings doth so freely give.</hi>
+               </l>
+            </lg>
+            <pb n="10" facs="tcp:204489:9"/>
+            <p> And truly the last Distick was Prophetical enough, for though these Blessings are so superabun<g ref="char:EOLhyphen"/>dantly great, yet those who have the fruition of them, are Microcos<g ref="char:EOLhyphen"/>mically little to such a degree, that I verily believe, excepting some other parts of their own Nation, they are the smallest People in the whole Habitable. The first we met with were some Children, driving an Herd of Kids; we pre<g ref="char:EOLhyphen"/>sently began to admire with our selves at the Ingenuity of the Inha<g ref="char:EOLhyphen"/>bitants, thinking they had inven<g ref="char:EOLhyphen"/>ted these little Engins, so as by Clock-work to make them walk; But we were soon put out of that fondness, when the little Imps be<g ref="char:EOLhyphen"/>holding our Gigantick size, run away shrieking, and the nimble Kids, run scatter'd back in no less confusion than their drivers; truly a small matter would have made
+<pb n="11" facs="tcp:204489:9"/>us run away too, we were so a<g ref="char:EOLhyphen"/>maz'd at such an intricate accident. Some thought it was the Land of the <hi>Faries,</hi> and implored me to lead them back; others supposing them Devils, exhorted me to re<g ref="char:EOLhyphen"/>cal my foot-steps, and hast back a<g ref="char:EOLhyphen"/>gain, while there was opportunity. But Hunger was a more prevalent Oratour at that time; for we had now Travail'd hard two dayes and an half, having only broke our fast the Morning we set out, and since not met with any thing to allay our Appetite, except some few strange Fruits we found in the way; so that if we went back, we were sure to faint and famish a<g ref="char:EOLhyphen"/>mong fruitless Flowers, and unpro<g ref="char:EOLhyphen"/>fitable Dainties; wherefore I en<g ref="char:EOLhyphen"/>couraged them to proceed cheerful<g ref="char:EOLhyphen"/>ly, and rather to venture any death than kill themselves by Fear, and dye by Famine. But they had had
+<pb n="12" facs="tcp:204489:10"/>little stomach to follow my advice, if the Poet <hi>Eucompsus</hi> had not assi<g ref="char:EOLhyphen"/>sted me with his Oration; and in<g ref="char:EOLhyphen"/>deed he was our only support and solace in Travail, being a very merry Fellow, eminently ingenious, of a large and noble Soul, and my singular good Friend. But because you may better conjecture at his Person by his speech, and that I may do him right, I'le give you his very Words, as near as I can remember; which for the future, as oft as occasion serves, I will promise you to do, whether they be Verse or Prose; because I ever took good heed of his Discourses and other Fancies. And thus he began: <hi>Friends and Companions, let me desire you for two or three Minutes only, to compose your selves, for I have something to say, that will please and secure you.</hi> At this they all came about him, and stood quaking, to
+<pb n="13" facs="tcp:204489:10"/>hear what he would deliver, like a timorous Herd of Deer, when they are first terrifi'd with the ap<g ref="char:EOLhyphen"/>proaching noise of Huntsmen and Dogs. And though I could not devise what his intent might be, I doubted not, but it would be very convenient for the occasion; but thus he went on: <hi>It is not the man<g ref="char:EOLhyphen"/>ner of gracious Heaven to place unbe<g ref="char:EOLhyphen"/>coming Inhabitants in so happy a Soil; nor can any Man of reason or judg<g ref="char:EOLhyphen"/>ment believe these Creatures to be</hi> Faries <hi>(i. e. nothing) or any spiritual Being. In short, they are Men;</hi> (here they stared at him monstrously,) <hi>I, Men, I say, rational as we are, and I doubt, far more couragious; for did you not observe them sometimes to make a stand, and looking at us, seem'd almost prepared to come to us? And certain<g ref="char:EOLhyphen"/>ly, though the unusual largeness of our Bulk might justly amaze them, had we had their hearts, we should not have
+<pb n="14" facs="tcp:204489:11"/>trembled so easily at the sight of such minute Animals. I have often heard of</hi> Pygmies, <hi>that they ride on Goats, and those Kids we saw are Colts, pro<g ref="char:EOLhyphen"/>portionable enough to such Coursers. The darkness of their Complexion be<g ref="char:EOLhyphen"/>ing a consequence of this Climate, why should we suspect any Diabolical Appa<g ref="char:EOLhyphen"/>rition? Seeing Devils, as Spirits, can have no colour at all, because such Qualities are only proper to Bodies; and if no colour, why may they not in the assumption of Bodies to them, in<g ref="char:EOLhyphen"/>vest that Body they assume with any other colour as well as Black? For thus, though we paint Devils of that colour, which is most different from ours; so the</hi> Aethiopians <hi>are accustomed to paint them white, and perhaps with no less absurdity. Having therefore shown them to be no immaterial Substances, it remains, they must be material, that is (as may be gathered from their self-motion and Voice) Animal Creatures;
+<pb n="15" facs="tcp:204489:11"/>and their shrieking being much after the manner of our Children, though more sharp and squeaking, as well as their shape and habit perswades us they must be Men. Then let us view them, their manner of Government, their Buildings, Customs and Labours; which will prove no doubt the most delectable adventure, that all our Travails did ever yet present us with.</hi> You would not think of what wondrous efficacy these few words were, be<g ref="char:EOLhyphen"/>ing confidently uttered by one, whom they all knew to be well Learned in Geography, and of great Eloquence, which was at<g ref="char:EOLhyphen"/>tended with a secret energy, called <hi>Peitho,</hi> which made him perswade the most obstinate, and lead his hearers by their Ears, as Bears are led by their Noses. But yet there was one obstacle more, by reason of one unreasonable Fellow, called <hi>Pan<g ref="char:EOLhyphen"/>deison,</hi> a <hi>Romanist,</hi> who began to
+<pb n="16" facs="tcp:204489:12"/>exclaim after this foolish manner. <hi>Oh ye Mad-men! to follow a whimsical Poet to this Land of Misery; though such kind of Men are not only believed to go to Hell themselves, but are known to lead others thither. This place is the Gate of Hell, those are De<g ref="char:EOLhyphen"/>vils, which he would fain perswade us to be men; and the Kids and Goats, that he confesses abound there, we are told by Scripture, are the Damned, which those Devils are driving to some place of Torment; nor is it strange, that the place seems so pleasant and delectable, for they say, the way to Hell is strewed with Roses. And I fear, if you proceed, (for I am resol<g ref="char:EOLhyphen"/>ved not to follow) that these Mountains will indeed prove flaming ones, as they seem'd at first; a just punishment for your temerity.</hi> And saying this, he hasted backward, fumbling with his Beads, and Crossing him<g ref="char:EOLhyphen"/>self all over, continually flinging
+<pb n="17" facs="tcp:204489:12"/>
+               <hi>Ora-pro-nobis'es</hi> to the Virgin <hi>Mary.</hi> Which when <hi>Eucompsus</hi> perceived, he holp to Cross him too, and fell into such a violent Laughter, that while none of us could refrain, the noise being at least trebly in<g ref="char:EOLhyphen"/>creased by the reverberation of that mountainous and hilly Country, put <hi>Pandeison</hi> into such a fright, that he hastned down the Moun<g ref="char:EOLhyphen"/>tains, like one possessed, till his praecipitant fear gave him such a fall, that we thought he had broke his Neck; yet for all this, our Laughter was rather augmented than diminished, till a charitable Thought for our Companion, enfor<g ref="char:EOLhyphen"/>ced us to a restraint. And this Mirth did us so much good, as to make us forget our Hunger, which we could hardly else have tolerated longer. So we sent four of our Servants to bring him back to us, who made a very speedy return
+<pb n="18" facs="tcp:204489:13"/>again with poor <hi>Pandeison</hi> in a swound, his Cloaths and Face all torn, and his left Arm broken; all which, seem'd to us a very cheap ransom for his Neck. But as soon as ever he recover'd, he winked very slighly, and of a suddain cry'd out on us, as if we were Devils too, which occasioned us to Laugh once more. But at last, finding how still and harmless we bore our selves, he took the confi<g ref="char:EOLhyphen"/>dence to open his Eyes a little wider, and having come to the knowledge of us, he intreated our pardon, and desired, we would not leave him behind us, but carry him to the next House we should see, and rest there till he was re<g ref="char:EOLhyphen"/>covered. Then we cut up some Grass and Flowers, and having spred them on a Bed, which we had composed of Twigs and Boughs we committed him to our four Ser<g ref="char:EOLhyphen"/>vants,
+<pb n="19" facs="tcp:204489:13"/>to be laid thereon, and so to be brought after us. Thus all was at rights again. The first Province we came to, was that of <hi>Gadozolia,</hi> the People whereof being called <hi>Gadozim,</hi> are the fairest, largest, and most stately of all other <hi>Pygmies.</hi> The very sight of the Smoak here gave heat to our resolutions, and we made such hast, being enforced by Hun<g ref="char:EOLhyphen"/>ger, that to use a Scholastick Phrase, We did even devour the way. At last being directed by a great Smoak, which was suffi<g ref="char:EOLhyphen"/>ciently observable in so thin and serene an Air, we arrived before a stately Fabrick of about 200 Foot square, yet not above sixty Foot high, made all of well-carved Wood, which abounds in that Country, called <hi>Geranophonon;</hi> a Wood, that contrary to the nature of all other, dyes when it is in the
+<pb n="20" facs="tcp:204489:14"/>Earth, after it hath grown twenty Years; but when it is fell'd down, it proves stronger, and looks more ve<g ref="char:EOLhyphen"/>get than before; so that age, which conquers all other things, makes this to triumph; and Worms them<g ref="char:EOLhyphen"/>selves, as knowing their attempt will prove vain, never corrode, or so much as come near it. On the Battlements of this Castle, (for a Castle it proved) was Earth spread, so that we took it for arable Ground, and Corn was besprinkled in the counterfeit Furrows; at each cor<g ref="char:EOLhyphen"/>ner of which were Stakes fastned, and four Nets so artificially spread, that no sooner could any thing of weight touch that ground, which is called <hi>Geodyctyum,</hi> but the Nets are closed on all sides, and the Prey that is taken, lyes hampered on the <hi>Geodyctyum.</hi> We needed not to crave entrance at this Castle, for before we came to the Gates, there
+<pb n="21" facs="tcp:204489:14"/>met us nine young dandiprat-Gal<g ref="char:EOLhyphen"/>lants, about two Foot and an half or three Foot high, attired in a party-coloured Silk, with Tur<g ref="char:EOLhyphen"/>bants on their Heads of Linnen, covered over with cloth of Gold, and adorned with divers splendent Jewels, about their Back was cast a Mantle of blew Sarcinet, which was gathered upon the right Shoul<g ref="char:EOLhyphen"/>der with a golden Button, over which there was cast a small chain of Silver, whereon a rich Sword of about a Foot long was hung, their Legs were cover'd with fine Linnen, and on their Feet they wore Sandals of Sheeps Leather, every one bestriding a lusty Ram, with guilded Horns, and Trappings beset with sparkling Diamonds. <hi>Eueompsus</hi> had by this time pretty well confirmed us all in the opinion, that these were <hi>Pygmies;</hi> so that we did not much admire at the
+<pb n="22" facs="tcp:204489:15"/>strange Equipage of such dwarfish <hi>Orlando's,</hi> but bowing our Bodies to them, stood still in a posture to receive them, when three of the formost, and as it appeared, most Noble of them, turning back, and making their followers to stand, of a suddain, sprung, as it were, with one consent, from their Ram-Horses, and with admirable cele<g ref="char:EOLhyphen"/>rity coming up to us, first boldly beheld our Faces, and then in the <hi>Indian</hi> Language bad us all wel<g ref="char:EOLhyphen"/>come to their Countrey. <hi>Eucompsus</hi> and my self, and another Friend of ours, having formerly for some years Traffick'd in the <hi>Indies,</hi> made shift to understand them, and to return them an assurance, that we came in peace, and desired only to Sojourn so long in their Country, as to repair our lack of Provision, and by observing their Customs to encrease our Knowledge. They
+<pb n="23" facs="tcp:204489:15"/>having assured us of all that might conduce to our satisfaction, entrea<g ref="char:EOLhyphen"/>ted us to follow them, pointing to the Castle, which they called the Royal Bulwark: Then they nimbly remounted, and placing themselves before our company, two others on each side, and the remaining two behind; in this or<g ref="char:EOLhyphen"/>der we all moved towards the Royal Bulwark, they riding softly with us. But when we came to the Gates, one of their Company took from his Neck a small Rams-horn, tipt with Silver, and ty'd with a Silken Cord, and having blown three blasts with such strength, that he was forced to stagger in his Sad<g ref="char:EOLhyphen"/>dle, the Castle-gates were imme<g ref="char:EOLhyphen"/>diately opened by twenty Men, who pull'd them wide by silken Cords, which were fastned to the Gates with Silver Rings. And they di<g ref="char:EOLhyphen"/>viding themselves on each side the
+<pb n="24" facs="tcp:204489:16"/>folding Doors, stood still, affording us a large passage, when the three Chiefs, that went before us, aligh<g ref="char:EOLhyphen"/>ting, gave their Steeds to their Ser<g ref="char:EOLhyphen"/>vants to put them up, and walked streight before us into a spacious Hall, where was an Ancient Gen<g ref="char:EOLhyphen"/>tleman about three Foot and an half high, with a Coronet of Gold, beset with precious stones, and a long Robe of flowered Satin, all be-laced wiah Spangles, who stood leaning on a staff to bid us welcome. The three <hi>Heroes</hi> ran to meet him, and having fell on their Knees, pointed back to us, and said something, as we thought, on our behalf; when having raised them up, he walked forward, as well as his age would permit him, to meet us: We were now all entred into the Hall when he came to us, and having yielded him as profound respect as was possible, he re-salu<g ref="char:EOLhyphen"/>ted
+<pb n="25" facs="tcp:204489:16"/>us, and making signs that we should move forward, presently those twenty Men, who had opened the Gates, came in loaded with Velvet-Cushions, two of them to each Cushion, and placing their burthen decently on each side of a very small, but stately Chair, they brought in two Courses of Cushions more, which made thirty in number, as many as our com<g ref="char:EOLhyphen"/>pany were, besides the four Ser<g ref="char:EOLhyphen"/>vants and <hi>Pandieson,</hi> whom now we could no where spye. At this time the Sun began to decline his golden head, and feeble Day seem'd ready to faint under the burthen of twelve hours, when an hundred young Virgins, cloathed all in white Sarcenet, entered the Hall with burning Tapers in their Hands, which they placed in Golden Soc<g ref="char:EOLhyphen"/>kets, that were made on the sides of the Hall, and so retired with
+<pb n="26" facs="tcp:204489:17"/>a solemn silence. And here I be<g ref="char:EOLhyphen"/>gan to think nothing wanting to a complete entertainment, but a good Supper, and my Stomach being somthing importunate, while the looks of our Company put me in mind of their necessities, I could no longer forbear, but rising from my Cushion, came before the Ancient Gentleman, who was now ready to sit in his Chair of State, and first bowing my Body three times, (a fashion which I ob<g ref="char:EOLhyphen"/>served in them) I unfolded our condition to him in the <hi>Indian</hi> Lan<g ref="char:EOLhyphen"/>guage to this purpose; <hi>Great Ruler,</hi> (<hi>Eucompsus</hi> smiled at that Epithet) <hi>of the Bulwark Royal, we all easily perceive, that our Treatment here is as Noble and Magnificent as the highest ambition could desire; but our hungery Stomachs put us in mind to sa<g ref="char:EOLhyphen"/>tisfie them before the Eyes, that being a work more necessary for Nature, and
+<pb n="27" facs="tcp:204489:17"/>helpful for all other operations:</hi> — I was going to proceed, when he smilingly interrupted me, and told me, he knew all this before, having read in our Countenances, that we wanted both Food and Sleep; and therefore, he said, he intended not to trouble us with any Discourse or in<g ref="char:EOLhyphen"/>quiries that Night, but only to take care, that after a good treat<g ref="char:EOLhyphen"/>ment, (which would be brought up presently) we should be conducted to our several rooms, and there left to our repose. For he said, about two or three hours before, some Children of his Chief Goat-herds, had given him information of our arrival; and that though they had never seen such tall Men before, yet he had been long acquainted with Men as big as we, having frequent<g ref="char:EOLhyphen"/>ly entertain'd Embassadours from the <hi>Macrobians,</hi> a People of the same <hi>India;</hi> and having himself,
+<pb n="28" facs="tcp:204489:18"/>with his three Sons, gon on several Embassies to the neighbour Nati<g ref="char:EOLhyphen"/>ons. While he was making this brief relation, the 20 Men brought into the Hall store of Goats-Milk, in Silver Dishes, each whereof was born by a couple of them, both for state, and perhaps because they were too heavy for one of them to bear, and fetching two Courses more, till we had a Dish for every one, they softly retrea<g ref="char:EOLhyphen"/>ted; after which a couple of Gen<g ref="char:EOLhyphen"/>tlewomen brought in the Spoons, made of a certain bright Shell, and after that, ten of those twenty Men came in, every one with a fine wrought Basket on his Head, wherein were three Cakes, about the bigness of a six peny Loaf, though not so thick, made of purer Flower, than any part of <hi>Europe</hi> yields, and so fragrant with Spices, that the greatest Monarch in the
+<pb n="29" facs="tcp:204489:18"/>Earth would not desire a finer Manchet; and lastly, there was set before each of us a Bowl of plea<g ref="char:EOLhyphen"/>sant and wholsome Wine, called by them <hi>Zythus,</hi> made of the Vine <hi>Persephonodia,</hi> which <hi>Zagreus</hi> plan<g ref="char:EOLhyphen"/>ted there before the Birth of <hi>Bac<g ref="char:EOLhyphen"/>chus;</hi> a Wine more like Nectar, than any drink of Mortals. We were going to fall on what was set before us, when the suddain noise of a golden Bell made us forbear, and look out, till a tall, slender, and comely Personage appeared in a Robe of purest white, constella<g ref="char:EOLhyphen"/>ted with the figure of the Celestial Bodies, and on his Fore-head this mark ✚ in a golden Meddal; who taking up a Cake of Bread, and standing on an Ivory step, spoke thus in <hi>English; O Thou, who though never fully comprehended, art signi<g ref="char:EOLhyphen"/>fied to weak Mortals by the sign which I thy Servant continually bear on my
+<pb n="30" facs="tcp:204489:19"/>Forehead, whom our Nation adores and magnifies above all powers, showre down thine heavenly Benediction on these thy Creatures, and hear this Prayer of mine, for thy Compassions sake, in the behalf of these Strangers, who come from a place, where thy Sal<g ref="char:EOLhyphen"/>vation is known, that they may re<g ref="char:EOLhyphen"/>cover strength thereby and refreshment from their Travail; Grant this, O thou, who wast a stranger in</hi> Aegypt, <hi>and a Sojourner in</hi> Bethlehem, <hi>for thine own most meritorious sake: So be it.</hi> While he was saying this, he ex<g ref="char:EOLhyphen"/>pressed so much fervency, that it struck us with a devout veneration and respect of his person; nor did it a little amaze us to hear him use our Language with such freedom, as if he had been an <hi>English</hi> Native; but his suddain leaving us, gave us opportunity of eating our Suppers, which we did with good Stomachs, till the first brunt of our Hunger
+<pb n="31" facs="tcp:204489:19"/>was satiated, and we began to feed more leisurely, which afforded us time to feed our Eyes too with the Splendour of our entertainment, and the rarities of the Hall; which was all hung with rich Arras, whereon was pourtrayed the Story of <hi>Phryxus</hi> the Son of <hi>Athamas,</hi> here he swam over the yet un-nam'd River on the golden back of the Ram, and here the timorous Girl be<g ref="char:EOLhyphen"/>fallen off, still strugling with those Waves, which her death has made so famous; and now the Hellespont, as seeming content with so great a Sacrifice, smooth'd its frothy cheeks in calmness. On an other side was a lively descrip<g ref="char:EOLhyphen"/>tion of the Fight of <hi>Damasen</hi> (an Earth-bore Gyant) with the Dra<g ref="char:EOLhyphen"/>gon. How young <hi>Tylus</hi> walking by the banks of the River <hi>Hermus,</hi> chanc'd to touch with his Hand a sleeping Dragon, being ignorant
+<pb n="32" facs="tcp:204489:20"/>what it was, but the incensed Creature bending back his Neck, and opening his impartial Jaws, ran against him, and lashing his sides, shook the Tempestuous bur<g ref="char:EOLhyphen"/>then of his fatal Tail, which he cast about his Neck in undissolva<g ref="char:EOLhyphen"/>ble Spires, still sending from his poisonous Throat the frothy mes<g ref="char:EOLhyphen"/>sengers of indubitable death: This was the only chain which grim <hi>Lachesis</hi> allotted the youth, though glorious with dazling Scales, yet most pernicious to the wearers of it; and in the embrace of this, like a sweet Flower covered with Dew, he bow'd to the Earth, and left the Nymph his Sister, to mourn his untimely fate: She forgat not a pious Groan or two, and then went in search of the Dragon, to know how big he was; for it was not one Travailer, nor one She<g ref="char:EOLhyphen"/>pherd he had destroyed, nor was
+<pb n="33" facs="tcp:204489:20"/>
+               <hi>Tylus</hi> alone slain by him, nor did he only feed on Beasts while he lay basking in the Wood, but often tearing up a strong Tree with his Teeth, he would swallow it, and often drawing back a Travailer with the very force of his magne<g ref="char:EOLhyphen"/>tick Breath, he had been seen afar off to receive an whole Man in his gaping Throat. The Nymph <hi>Meroe</hi> saw from far this Mutherer of her Brother, and was shaken with horrour, to behold the thick rows of his pestiferous Teeth, and the Crown of Death circum<g ref="char:EOLhyphen"/>scribed in the limits of his wide Throat. And making sad lamen<g ref="char:EOLhyphen"/>tation in the Wood, she met <hi>Da<g ref="char:EOLhyphen"/>masen,</hi> the huge Son of Earth, whom contention had nurs'd up, and <hi>Lucina</hi> her self had arm'd; an Infant, yet terrible; a Suckling, yet Warlike, and a Child of more than humane strength: Him the
+<pb n="34" facs="tcp:204489:21"/>Nymph beholding near a side of the Wood, fell on her Knees, and sobbing mournfully, show'd him the Monstrously-crawling Mur<g ref="char:EOLhyphen"/>therer of her Brother, and poor <hi>Tylus</hi> yet strugling with death in the dust. The Gyant gladly un<g ref="char:EOLhyphen"/>dertook her quarrel, and wren<g ref="char:EOLhyphen"/>ching up a huge Tree from his Mother Earth, he presently came before the cruel Dragon, who had by this time sounded the trumpet of his horrid Hissing to the Battle. Never were two such Monsters met together, the one covering near fifty Acres with his Scaly folds, the other threatning the Stars with his lofty front; the fearful Dragon had soon ty'd the Legs of <hi>Damasen</hi> with a double Sphincter, and opening the gates of his Teeth, with an enraged look, that breathed death, he darted at him the moist weapons of Poison from his Lips,
+<pb n="35" facs="tcp:204489:21"/>and leap'd up towards his Head: But the proud <hi>Damasen</hi> scorning such familiarity with a Beast, easily repell'd him with his Hand, and smiting him with the Oak on his Temples, he rooted the Tree once more, sending it and death toge<g ref="char:EOLhyphen"/>ther into the Monster; who folding himself up in close wreaths, lay dead on the Earth; when of asuddain the Female Dragon com<g ref="char:EOLhyphen"/>ing by, as it were on purpose, saw her dead Male, and presently ha<g ref="char:EOLhyphen"/>sted to the herbiferous Mountain, whence cropping with her vipe<g ref="char:EOLhyphen"/>rous Teeth the Flower of <hi>Jove,</hi> she brought back the Medicinal Herb in her Lips, and presently apply'd it to the dry Chaps of the dead Serpent; the hinder part of him was now liveless, the formost moved, and lovingly joyn'd it self to the other part, which now recover'd motion too; thus having
+<pb n="36" facs="tcp:204489:22"/>drawn his returned Breath through his cold Mouth, he soon after be<g ref="char:EOLhyphen"/>gan to open his Throat and send forth accustomed Hisses, and so returned with his loving Mate to his secret Den. And then fair <hi>Meroe,</hi> who beheld all this, took up the Flower of <hi>Jove,</hi> and ap<g ref="char:EOLhyphen"/>plyed it to the Mouth and Nostrils of her breathless Brother; but the vital Herb with its Virtual leaves, re-insouled the Body, and forced his departed Spirit to return again, infusing heat and life through every part: At this Young <hi>Tylus</hi> rose again, like a Man who after his nocturnal Sleep shakes off the Eye<g ref="char:EOLhyphen"/>binding shackles of lazy <hi>Somnus,</hi> and leaps from his Bed on his vigou<g ref="char:EOLhyphen"/>rous Feet; again, his late congea<g ref="char:EOLhyphen"/>led Blood began to run its wonted circulation through the channels of the Veins, and his newly relea<g ref="char:EOLhyphen"/>sed Hands began to actuate, his
+<pb n="37" facs="tcp:204489:22"/>Face was reinvested with its former Beauty, and strength returned to his Body, light to his Eyes, and speech to his Lips. On an other side was pourtrayed the contention of emulous <hi>Arachne</hi> with the Goddess <hi>Minerva;</hi> but the most admirable rarity there was the Spiders Web, which was made by Metamorphosed <hi>Arachne;</hi> ne<g ref="char:EOLhyphen"/>ver were threads so small, so artifi<g ref="char:EOLhyphen"/>cially wrought by any humane Hand before. These representati<g ref="char:EOLhyphen"/>ons and more were expressed to the life on those ingenious Hangings, which while we curiously run over, our Stomachs had remitted much of their former rapacity, and we had leisure to ruminate on the wonderful and undeserved Civi<g ref="char:EOLhyphen"/>lities we had received from so small a Nation, not only some<g ref="char:EOLhyphen"/>times remembring the goodness of their Bread and Wine, but often
+<pb n="38" facs="tcp:204489:23"/>reflecting on that admirable skill had been shown in the Work on the Arras; at which time we, seeming not to employ all our Or<g ref="char:EOLhyphen"/>gans at Supper, were supprized with such an Harmonious Consort of Musick, that every Sense seem'd converted into that of Hearing, and our Apostate Ap<g ref="char:EOLhyphen"/>petite, to prefer this Auditory Banquet. Which so inflam'd the Aery Soul of <hi>Eucompsus,</hi> that be<g ref="char:EOLhyphen"/>ing very dexterous in that faculty, hewarbled out <hi>extempore</hi> this rapture with a most sweet and low Voice to the <hi>Indian</hi> Tune, which was then play'd.</p>
+            <lg n="1">
+               <head>I.</head>
+               <l>
+                  <hi>What sound is this, that captivates mine ears,</hi>
+               </l>
+               <l>
+                  <hi>Inthrals my Sense, and wings my Soul?</hi>
+               </l>
+               <l>Jove <hi>sure, if he this Consort hears,</hi>
+               </l>
+               <l>
+                  <hi>Stands listning from the starry Pole,</hi>
+               </l>
+               <l>
+                  <hi>Contemning all the Musick of his Sphears,</hi>
+               </l>
+               <l>
+                  <hi>Though mixt with</hi> Ganymed<hi>'s nectarean bowl.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <pb n="39" facs="tcp:204489:23"/>
+               <head>II.</head>
+               <l>
+                  <hi>Such Numbers did from the</hi> Orphaean <hi>Lyre</hi>
+               </l>
+               <l>
+                  <hi>Enliven quick-ear'd Trees, and move</hi>
+               </l>
+               <l>
+                  <hi>In decent Dance, (if Fame's no lyar)</hi>
+               </l>
+               <l>
+                  <hi>The whole admiring</hi> Thracian <hi>Grove,</hi>
+               </l>
+               <l>
+                  <hi>So</hi> Phaebus <hi>did with</hi> Mercury <hi>conspire,</hi>
+               </l>
+               <l>
+                  <hi>When</hi> Peleus <hi>wedded his</hi> Nereian <hi>Love.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>
+                  <hi>Such Numbers from the skill'd</hi> Amphion <hi>fell,</hi>
+               </l>
+               <l>
+                  <hi>When stones kept measure to his sound,</hi>
+               </l>
+               <l>
+                  <hi>When temper'd Air could work so well,</hi>
+               </l>
+               <l>
+                  <hi>And potent Verse so strong was found;</hi>
+               </l>
+               <l>
+                  <hi>It made rough Quarries by the quavering spell</hi>
+               </l>
+               <l>
+                  <hi>Jump in Symetrick Piles the City round.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>
+                  <hi>But since (wise Nature) thou hast freely made</hi>
+               </l>
+               <l>
+                  <hi>So small a Race so great a Quire,</hi>
+               </l>
+               <l>
+                  <hi>Since they our priviledge invade,</hi>
+               </l>
+               <l>
+                  <hi>And mount as high as we or higher</hi>
+               </l>
+               <l>
+                  <hi>In thy great Secrets: hence small thing be said</hi>
+               </l>
+               <l>
+                  <hi>The fittest things to Love, and to admire.</hi>
+               </l>
+            </lg>
+            <pb n="40" facs="tcp:204489:24"/>
+            <p> And here the Musick ending, his Pegasean heat was a little coo<g ref="char:EOLhyphen"/>led, when the youngest of the Three Heroes (who the Ancient Gentleman before called his Sons) stept behind <hi>Eucompsus,</hi> and having obligingly commended his Voice, he thank'd him for the Honour conferr'd on their Solemnity, and confessing that by a familiarity with his Country Priests, he had attained to so much knowledge at lest in the <hi>English</hi> Tongue, as might make him perceive the drift of his Song to be in praise of that Consort, he therefore desired to be permitted to make his return in the like nature; which <hi>Eucompsus</hi> gladly condescended to, and whis<g ref="char:EOLhyphen"/>pered to me and my Friend his intent, so that we were almost Ear-starved with expectation of that genial entertainment; when of a suddain, the Musick having
+<pb n="41" facs="tcp:204489:24"/>play'd one Preparative, the Spirit of the young Heroe was so ra<g ref="char:EOLhyphen"/>vishingly elevated, that soaring above the usual pitch of meaner Poets, he warbled forth, with the most gratiously surprizing Voice imaginable, this Song in the <hi>Indian</hi> Language.</p>
+            <lg n="1">
+               <head>I.</head>
+               <l>
+                  <hi>'Tis not our Musick (Strangers brave)</hi>
+               </l>
+               <l>
+                  <hi>That can your Senses bind;</hi>
+               </l>
+               <l>
+                  <hi>Our Verses no such Magick have</hi>
+               </l>
+               <l>
+                  <hi>Your Generous Spirits to enslave:</hi>
+               </l>
+               <l>
+                  <hi>Alas! You're too too kind.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>
+                  <hi>Yet from the heat of</hi> Phaebus <hi>rayes</hi>
+               </l>
+               <l>
+                  <hi>We're not so far remov'd,</hi>
+               </l>
+               <l>
+                  <hi>But that we sometimes purchase Bayes,</hi>
+               </l>
+               <l>
+                  <hi>And wander through those flow'ry wayes,</hi>
+               </l>
+               <l>
+                  <hi>So much by Muses lov'd.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <pb n="42" facs="tcp:204489:25"/>
+               <head>III.</head>
+               <l>
+                  <hi>But since the Sacred Treble-three</hi>
+               </l>
+               <l>
+                  <hi>Now in this Castle dwell;</hi>
+               </l>
+               <l>
+                  <hi>(For you have brought them here we see)</hi>
+               </l>
+               <l>
+                  <hi>We hope our Canto's may agree</hi>
+               </l>
+               <l>
+                  <hi>Some other time as well.</hi>
+               </l>
+            </lg>
+            <lg n="4">
+               <head>IV.</head>
+               <l>
+                  <hi>But now, fair</hi> Nox, <hi>that dost attire</hi>
+               </l>
+               <l>
+                  <hi>Thy self in Sable Vest;</hi>
+               </l>
+               <l>
+                  <hi>Be thou propitious, we desire,</hi>
+               </l>
+               <l>
+                  <hi>While these kind Strangers do retire,</hi>
+               </l>
+               <l>
+                  <hi>And sweetly take their Rest.</hi>
+               </l>
+            </lg>
+            <p>After this favourable <hi>Vale,</hi> the residue of our Supper was taken away, in the same order it was all brought in, and immediately, upon the ringing of the Golden Bell, the Priest, which they call a <hi>Dramesco (i. e.</hi> a representative of Christ) returned in the same Habit
+<pb n="43" facs="tcp:204489:25"/>and manner as before, who moun<g ref="char:EOLhyphen"/>ting on the aforementioned Ivory <hi>Basis,</hi> returned the Thanks of the Guests to the Supream Deity in these words, <hi>O thou ineffable Being, whose Goodness is as boundless as thine Empire, in the name of these Stran<g ref="char:EOLhyphen"/>gers, I thine unworthy Substitute, return thee deserved Thanks for this present comfortable repast, as well as thy daily favours to them; beseeching thee, that as their weak Bodies, through thy Mercy, are nourished with daily Food, so their immortal Souls may continually be satisfied with the Spiritual Banquets of thy Grace, that both their Souls and Bodies may joyn in a pure Life, to the Glory of thy Great Name, and the Health of their own Souls: Grant this of thine un<g ref="char:EOLhyphen"/>speakeable Clemency. So be it.</hi>
+            </p>
+            <p>Having so said, he blessed us, and bad us rest in Peace; adding, that he would see us the next
+<pb n="44" facs="tcp:204489:26"/>morning, and confer with us; at which saying, we all rose up and bow'd to him, which he seem'd to take no notice of, but went di<g ref="char:EOLhyphen"/>rectly out of the Hall; after which there came in four Damsels (who were of the hundred fore-mentio<g ref="char:EOLhyphen"/>ned) with lighted Tapers in their hands, who approaching to me first, as being the Chief, beck'ned to me to follow them, which I did, (leaving the rest behind on their Cushions, as the custom of the Country required) till they brought me into a fair Chamber, wherein there was a large Couch, standing on four Feet of Ebony, and co<g ref="char:EOLhyphen"/>vered with a rich Mantle of Silk, quilted with Wool, on which there seem'd Poppies to grow: They pointed to the Couch, and set the Tapers in Sockets of Silver, which were purposely placed on each side the Couch, and so left
+<pb n="45" facs="tcp:204489:26"/>me to my repose, closing the Door after them. No sooner was this done, but the most Fragrant sent imaginable began to allure my yielding Senses to a retirement; it proceeded from a Smoak of burnt Spices and Perfumes, which I suppose, the Maids, by some Tube, transfused into my Chamber through the hole of the Door. I was thinking, what a rare sub<g ref="char:EOLhyphen"/>ject that would prove for <hi>Eucompsus</hi> to exercise his Poetry on; but in<g ref="char:EOLhyphen"/>deed the Virtue of this sweet Fu<g ref="char:EOLhyphen"/>migation was so effectually sopori<g ref="char:EOLhyphen"/>ferous, that I had no sooner lay'd my self on the Couch, and co<g ref="char:EOLhyphen"/>ver'd me with the Mantle, but the irresistable Charms of <hi>Somnus</hi> locked up my wearied Senses in the Cabinet of Rest. And so I lay, till a knocking at my Door awaked me with this Tetrastich.</p>
+            <q>
+               <pb n="46" facs="tcp:204489:27"/>
+               <l>Arise, O Man, for what is Sleep</l>
+               <l>But Death's Effigies right?</l>
+               <l>The Fates will once thy Vitals steep</l>
+               <l>In a more lasting Night.</l>
+            </q>
+            <p>At which serious and apt <hi>Me<g ref="char:EOLhyphen"/>mento,</hi> I saw the Tapers began to confess themselves useless at the approach of <hi>Aurora,</hi> and as see<g ref="char:EOLhyphen"/>ming desirous to resign their Of<g ref="char:EOLhyphen"/>fice to a brighter Luminary, they hid their dying Heads in the Soc<g ref="char:EOLhyphen"/>kets, and yet in their very snuffs, left an odoriferous Savour behind them. Then I arose, and having taken a turn or two in my Cham<g ref="char:EOLhyphen"/>ber, and view'd the delectable and costly furnishing thereof, the four former Maids came in, and beck<g ref="char:EOLhyphen"/>ning to me to follow, they recon<g ref="char:EOLhyphen"/>ducted me into the same Hall, where having left me, four others came in with <hi>Eucompsus,</hi> and so
+<pb n="47" facs="tcp:204489:27"/>every one in the order they sat at Supper, was conducted in by four Maids, till we were all met, and then it was found, that all of us had a like ceremony used in all respects. But while we were de<g ref="char:EOLhyphen"/>bating on the past occasions, ap<g ref="char:EOLhyphen"/>plauding their Magnificence and Hospitality, the Venerable <hi>Dra<g ref="char:EOLhyphen"/>mesco</hi> came in, according to his promise, and desiring us to sit down on our Cushions, he him<g ref="char:EOLhyphen"/>self mounted on a Step of Ebony, opposite to the Ivory Basis, and made this following Discourse to us.</p>
+            <p>
+               <hi>Friends and Brethren, first of all, as</hi> English <hi>Men, I bid you welcome, but as</hi> Christians, <hi>I embrace your Society. That Basis of Ivory being Consecrated to Holy Uses, I never stand on it, unless while I am Praying or Praysing of God; but this whereon now I am, is the place where I usually Discourse,
+<pb n="48" facs="tcp:204489:28"/>and it is of this colour, to signifie, that all other talk is as much below that, as black is contrary to white. But these things are obvious, and of themselves explicable enough. I sup<g ref="char:EOLhyphen"/>pose you may all wonder to hear me speak so readily your Language, in so remote a Country; but you must know, that our</hi> Dramesco's, <hi>whom you call Priests, are taught from their Infancy, all the most known Languages of the World, which for the most part, we in a pretty manner attain to, notwithstanding the brevity of our Lives, which never exceeds forty Years; nay we count twenty a sufficient Age, though many attain to thirty; but forty, as I said before, is the highest apex, to which our Life can or did ever climb. And yet, some among us, have been found able in all the Sciences, and skill'd in fifty four Languages; a thing, which to the</hi> Europeans <hi>may seem incredible, but as soon as they know our circum<g ref="char:EOLhyphen"/>stances,
+<pb n="49" facs="tcp:204489:28"/>it will not prove so difficult to believe. For the Nature of our Climate, it is so providentially dis<g ref="char:EOLhyphen"/>posed, as if Heaven intended to com<g ref="char:EOLhyphen"/>pensate the deficience of our time in a more vigilant aptitude to Industry; for he that is most wearied with La<g ref="char:EOLhyphen"/>bour among us, in the space of twenty four hours, requires but one three hours Sleep, by which only he is suffi<g ref="char:EOLhyphen"/>ciently invigorated and refreshed: Besides, we have the presence of the Sun two hours and an half sooner than any in</hi> Europe, <hi>and find him setting but an hour sooner, so that our day gains of them one whole hour and an half; moreover Nature has enriched this Soyl with a soveraign Plant cal<g ref="char:EOLhyphen"/>led</hi> Anthypuum, <hi>the Berries where<g ref="char:EOLhyphen"/>of being made into a Drink, do re<g ref="char:EOLhyphen"/>fresh us as well as any Sleep, and save us the loss of time; so that though our Bodies are so inconsiderable, and our Years so few, yet our Life may be
+<pb n="50" facs="tcp:204489:29"/>justly reckoned the longest and most Proper Life, because it is hardly ever, and then but for a small time deprived of its operations, by that silent un<g ref="char:EOLhyphen"/>active</hi> Interregnum <hi>of Sleep. And I remember to have heard of such a Drink, among you of</hi> England, <hi>which is called by that improper name of</hi> Coffee; <hi>you count that a great help to vigilancy, and so I grant it may be, but I can assure you, it is made of a Plant which is the bastard Plant to our</hi> Anthypuum, <hi>and has scarce one scruple of the Virtue which belongs to ours. I suppose, it is the way of Hea<g ref="char:EOLhyphen"/>ven to bless each Soyl with those Fruits which are most congruous and agreeable to the disposition of the Inhabitants, and most profitable and necessary for the sustenance of the Country. Our people are for the most part Husband<g ref="char:EOLhyphen"/>men, Gardeners and Keepers of Cat<g ref="char:EOLhyphen"/>tle; only two Hundred thousand of the Commonalty are in especial em<g ref="char:EOLhyphen"/>ploy'd
+<pb n="51" facs="tcp:204489:29"/>in digging of Mines, which a<g ref="char:EOLhyphen"/>bound here, and coyning the Gold and Silver, though there are but</hi> 50000 <hi>of them work at it yearly. Others make it their Trade to Work in all kinds of Silk, to make Tapestry, and Quilted Works, and to make Apparel for the rest of the Nation. Others that are of the Militia, are sent every Spring to the Sea-side, to break the Eggs of the young Cranes, and kill the old ones, as many as they can. Thus, every one is helpful to another; one sort manures the Ground, another defends the Country: Another Cloaths us, ano<g ref="char:EOLhyphen"/>ther Feeds us, and another helps us to Barter for what we lack, by enriching our Coffers: So that every one being content with his Profession, and every Profession being sufficiently gainful, (because we are all Industrious, and know not those luxurious wayes of Spending, which others practice) those that have much have but enough,
+<pb n="52" facs="tcp:204489:30"/>and those that have little want nothing. Now the desire of Riches being unnatural to our Constitutions, and the wayes of Deceiving being un<g ref="char:EOLhyphen"/>known, while every one enjoys his own, no body is in want, and our own Soyl yields us as much as the whole World could. Hence having no need to fall to base practises, we are all exercised in our own Vocations, and when we are Old we leave the practice and gains of our Trade to our Children, who, (as we wrought before to maintain them) are now, by the Law both of Nature and our Land, forced to nourish us, which they do most dutifully: But if any neglect it, as I never yet could hear of more than two, the Judges, that go about to look to such things, bring them from their Fathers House, and having caused their Eyes to be pull'd out, and bran<g ref="char:EOLhyphen"/>ding them with the Figure of a Viper in their Fore-heads, they send them forth, thus helpless, into the Fields,
+<pb n="53" facs="tcp:204489:30"/>and so those who refused to nourish their Parents, are now uncaple of finding nourishment for themselves; but being hated and abhorred of all, who see them so stigmatiz'd, they wander a<g ref="char:EOLhyphen"/>bout, till they dye deservedly mise<g ref="char:EOLhyphen"/>rable.</hi> And here the Good Man having made a pause, and looking stedfastly on me, I thought fitting to make some reply; and thinking nothing could prove more accep<g ref="char:EOLhyphen"/>table, than if I should retaliate him, by a narration of our Cu<g ref="char:EOLhyphen"/>stoms, I prepared to answer him in that kind, though I was a<g ref="char:EOLhyphen"/>sham'd to see how these small ones exceeded us: But yet, because I doubted whether he might not have attained to the knowledge of them, as well as of our Language, I first chose to ask him, whether he had ever yet been acquainted with our wayes of Government, or would desire to hear any News
+<pb n="54" facs="tcp:204489:31"/>from us? To which, he thus re<g ref="char:EOLhyphen"/>turned. <hi>About</hi> 2660 <hi>Springs past, (for we commonly use that part of the Year in discourse, for the whole, it being the only memorable time for Action with us) there came into our Country an</hi> Indian Brachman, <hi>(for so their Wise Men are called) the first Stranger that our Annals make mention of, called</hi> Melesigenes <hi>of a comely Personage, tall and long-Visa<g ref="char:EOLhyphen"/>ged, his Eyes black and sharp-sighted, his Hair and Beard as white as Goats-Milk, his Complexion Sanguine; and in short, his Aspect such, as could allure Mens love, and enforce their respect. He was no sooner seen by some of our Nation, but they received him as a God, adoring him and offe<g ref="char:EOLhyphen"/>ring him Presents; but when the King of</hi> Gerania <hi>(which is the Name of our Country) heard of him, he came himself to do him Honour, and carrying him into the Temple of</hi>
+               <pb n="55" facs="tcp:204489:31"/>Jupiter, <hi>who was then God of the Land, made there a sumptuous Feast for him; at which, he having Eaten little, and Drunk less, came to the King, and spake to this purpose in the</hi> Indian <hi>Language, which was scarcely then understood by our Ancestours. O King! I am no God, nor Person that merit such Divine Honours, but a</hi> Graecian <hi>Born, and a Man that have Travailed most parts of the known World, to encrease Knowledge. I have been in</hi> Aegypt, <hi>and seen the Wisdom of their Priests and Magici<g ref="char:EOLhyphen"/>ans: I have been in</hi> Persia, <hi>and con<g ref="char:EOLhyphen"/>versed with their</hi> Magi. <hi>I have noted the Holiness and Religion of the</hi> Jews, <hi>and read the Poetical Writings of their Learned King</hi> David; <hi>I have also examined the skill of the</hi> Chaldaeans <hi>in the Stars; but pre<g ref="char:EOLhyphen"/>ferring the strict and temperate Life of the</hi> Indian Gymnosophists, <hi>I have conversed with them above this
+<pb n="56" facs="tcp:204489:32"/>ten Years; so that now by my Speech, Habit, and Profession, I seem a Na<g ref="char:EOLhyphen"/>tive of that Country. But of all the People I ever met with, none, as yet, have appeared to me to Live so irregu<g ref="char:EOLhyphen"/>larly as your People do, who though they are naturally well enclin'd to Hospitality and a sense of Religion, yet being destitute of a sufficient Law<g ref="char:EOLhyphen"/>giver, they live among themselves more like Brutes than rational Crea<g ref="char:EOLhyphen"/>tures. In short, give me Authority, O King, and I shall so employ my skill in cultivating their Manners, by wholsome Laws, and in Moddelling your Government by good Policy, that you shall have cause to remember me for ever. At this saying, the King fell down before his Feet, and testify<g ref="char:EOLhyphen"/>ing his ready acceptance, committed all his Affairs to the Discretion of this Stranger; but would suffer him to reside no where, but in the Temple of</hi> Jupiter, <hi>with the Priests of that
+<pb n="57" facs="tcp:204489:32"/>God, partly, because he esteemed him next that Deity, and partly, because no place beside in that Province was big enough for the reception of such a Man. Here then he abode, and after he had instituted all those Laws, where<g ref="char:EOLhyphen"/>by this Land is yet governed, he di<g ref="char:EOLhyphen"/>vised, for increase of Knowledge, two Places, which he called</hi> Lescha's, <hi>the one for the</hi> Dramaesco's <hi>or Holy Men; the other for the</hi> Talcomummi, <hi>which you call</hi> Lay-Men; <hi>and added this difference, that the</hi> Dramaesco's <hi>should be bred there, and trained up from their Child-hood, in all the known Languages, and after the at<g ref="char:EOLhyphen"/>tainment of them in the Mysteries of</hi> Theology, Ethicks, Metaphysicks, Astronomy, <hi>and</hi> Geometry, <hi>only; and that the</hi> Talcomummi <hi>should only know the most proper Dialect of the</hi> Indian <hi>Tongue, and in that find out the Secrets of Nature, studying</hi> Lo<g ref="char:EOLhyphen"/>gick, Mathematicks, Musick,
+<pb n="58" facs="tcp:204489:33"/>
+               <hi>and</hi> Ethicks, <hi>which comprehend all the liberal Sciences; and to this in<g ref="char:EOLhyphen"/>tent, he left us Forty Volumns, every one in a several Language, which he ever bore with him, being light Rolls of Parchment; one whereof, contained the writings of</hi> Moses, David, <hi>and</hi> Solomon; <hi>adding, that they had been Servants to the true God, and that by their Writings, he had perswaded himself, how the Heathen Gods should shortly be demolished, and the true God manifesting himself to the World, should teach Men a way to serve him; in the mean time he left us in our</hi> Lescha <hi>this wonderful Prophecy:</hi>
+               <q>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>,</l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </q> Which I may thus <hi>English</hi> to you,
+<q>
+                  <l>Six hundred first, one hundred then,</l>
+                  <l>And after ten;</l>
+                  <l>Six, seventy and two hundred more</l>
+                  <l>Will bring to you the SAVIOUR.</l>
+               </q>
+            </p>
+            <pb n="59" facs="tcp:204489:33"/>
+            <p>
+               <hi>He said when this number of Years was complete, which is</hi> 986, <hi>we should understand the Prophecy: Now, which is strange, those Letters in</hi> Greek, <hi>which make this number, being joyned together in that order he placed them, do constitute the word</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Christ, who was Preached to us in that Year, which this Prophecy foretold. After this he ordered such Castles as these to be made in such places, that may most annoy the Cranes; and shew'd us the Nature of three most useful things, the one of the Tree which he called</hi> Geranophonon, <hi>which signi<g ref="char:EOLhyphen"/>fies a</hi> Crane-killer; <hi>for if a Crane doth but touch it, it makes the Claws or Bills, or any other part, that tou<g ref="char:EOLhyphen"/>ches it, to fall off, and soon destroys that enemy of ours: Then he show'd us the use of an Herb called</hi> Moly <hi>by us, but by him</hi> Cynocephalea, <hi>which being beat to Powder and drank in Wine, is a soveraign Remedy against
+<pb n="60" facs="tcp:204489:34"/>Witchcraft and Poison. But this most profitable Antidote, whose chief Vir<g ref="char:EOLhyphen"/>tue lies in its Root, is so deep and strongly radicated in the Earth, that we ought to use our utmost care in dig<g ref="char:EOLhyphen"/>ging about it, for fear of breaking the Root. And lastly, he taught us the manner of making that Drink, which we use instead of Sleep, and therefore he called it</hi> Anthypuum. <hi>And ha<g ref="char:EOLhyphen"/>ving done all these things of love for us, in the space of eight or nine years, he told us he would depart now for</hi> Greece, <hi>and promised to mention us to the World, in the Writings he inten<g ref="char:EOLhyphen"/>ded to publish, which he said, should comprehend the Vigour of the Body, and strength of a Wise Mind, as a means to eternize his Name, which, though first he said was</hi> Melesigenes, <hi>be afterwards acknowledged it to be</hi> Homer, <hi>that is blind, because his Country-Men seeing him not overcome as others, by vain Pleasures, which
+<pb n="61" facs="tcp:204489:34"/>begin at the Eyes, they counted him as blind, and therefore, called him</hi> Homer, <hi>never considering, that the quick eye of his Reason and Virtue had purposely closed the Eye of Concu<g ref="char:EOLhyphen"/>piscence, with which, as long as Men see, they themselves are no better than blind. But when our King heard of his intended departure, after all his Prayers, perswasions, and promi<g ref="char:EOLhyphen"/>ses proved ineffectual to stay him, he offered him many large Favours, which when he refused to accept, the King begg'd of him to say what he should do for his sake, that had done so much for our Country. He only desired him to do three things; first, to Erect a Tem<g ref="char:EOLhyphen"/>ple, bigger than that of</hi> Jupiter, <hi>and Dedicate it</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to the God that was to come, and to ho<g ref="char:EOLhyphen"/>nour him with no Sacrifices, but of continual Prayer and Praises, and to that end to institute a Quire with Songs and Musick, to Bless and Mag<g ref="char:EOLhyphen"/>nifie
+<pb n="62" facs="tcp:204489:35"/>him; Then he desired him to give his mind to Hospitality; and to that purpose, to provide Two hundred Chambers in every Castle, and to furnish them after the manner you saw your Lodgings furnished: And lastly, he desired him to transmit his Laws to Posterity, and to choose out every Year some of the gravest and justest</hi> Talcomummi <hi>to expound the Law to the People, and to select out of them two Judges for every Province in his Dominions of</hi> Gerania: <hi>First, for the Province of</hi> Gadozalia (<hi>so called, from that King</hi> Gadozal) <hi>where is the chief City, and the largest Men of all the</hi> Pygmies, <hi>who are also the longest liv'd and best Learned. Se<g ref="char:EOLhyphen"/>condly, for the Province of</hi> Homeria, <hi>which took name from that</hi> Gymno<g ref="char:EOLhyphen"/>sophist, <hi>where the People delight chiefly in Caverns and Cottages, built of Mud, and adorned with Feathers and whites of Eggs. Thirdly, for
+<pb n="63" facs="tcp:204489:35"/>the Province of</hi> Calingi, <hi>where the</hi> Pygmies <hi>are the smallest of all, Marrying at five years of Age, and not living beyond twelve; who chiefly feed on Fish, which they take from the River</hi> Arbis, <hi>that runs through their Province. And lastly, for the Pro<g ref="char:EOLhyphen"/>vince of</hi> Elysiana, <hi>so called, for its wholesome Air and pleasant Situation. All this the King</hi> Gadozal <hi>promised and thereto Swore by his Scepter, which was made of Wood, and plated over with Gold. And so that God<g ref="char:EOLhyphen"/>like Man left our Country, and left an Eternal Memory of his Acts with us, which the grateful King strove to encrease several wayes; as first, by a golden Image, representing</hi> Homer, <hi>giving Laws to the</hi> Pygmies, <hi>with this Motto, —</hi>
+               <q>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+                  <l>To <hi>Pygmies</hi> I their Laws did give,</l>
+                  <l>And Precepts made, by which they live.</l>
+               </q>
+            </p>
+            <pb n="64" facs="tcp:204489:36"/>
+            <p>
+               <hi>Moreover, he Instituted an Order of</hi> Greek-Talcomummi; <hi>who are only permitted, beside their Mother Tongue, to Learn the</hi> Greek, <hi>both Verse and Prose, which they were much assisted in by several admirable Poems of his, (which he Wrote for them) chiefly three, his</hi> Thesmo<g ref="char:EOLhyphen"/>phoron, <hi>which contained all his Laws in Verse; a small one called</hi> Epicichlides; <hi>and his</hi> Margites, <hi>which, it may be, have never come to your Hands, because he left them wholly here, except some few Frag<g ref="char:EOLhyphen"/>ments of them, which he took with him. And this</hi> Greek <hi>Order from him are called to this day</hi> Homeridae. <hi>But I forgot to tell you, that in that Temple, which he wish'd to be built</hi> To the God that should come, <hi>there was an</hi> Adytum <hi>called the</hi> Proseu<g ref="char:EOLhyphen"/>cha, <hi>over which</hi> Homer <hi>left this Distich to be wrote in golden Cha<g ref="char:EOLhyphen"/>racters, (for we soon had learned
+<pb n="65" facs="tcp:204489:36"/>to make Letters by his assistance.</hi>
+               <q>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </l>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</l>
+               </q>
+            </p>
+            <p>
+               <hi>Which I thus</hi> English <hi>for you, because every one may understand me,</hi>
+               <q>
+                  <l>O Son of God, give us what thou seest fit,</l>
+                  <l>Whether we pray for it or no;</l>
+                  <l>But as for Evil, never give us it,</l>
+                  <l>Though foolishly we wish it so.</l>
+               </q>
+            </p>
+            <p>
+               <hi>And thus, by this mans means, we have not only lost our Barbarism, but arrived to a prety degree of Know<g ref="char:EOLhyphen"/>ledge, and have a way to understand the Language, Customs, and Govern<g ref="char:EOLhyphen"/>ment of all Countries, especially since these</hi> Indies <hi>have been so open; for the</hi> Indians <hi>learn of</hi> English <hi>or</hi> Dutch <hi>Merchants the Affairs and Transactions of other Countries, and
+<pb n="66" facs="tcp:204489:37"/>from them the</hi> Brachmans <hi>learn the same, and they, in memory of</hi> Homer, <hi>send to us every Year with writings of those Matters.</hi>
+            </p>
+            <p>Here he paused again, and <hi>Eu<g ref="char:EOLhyphen"/>compsus</hi> being a great admirer of <hi>Homer,</hi> began to be altered in his Countenance, with a more than perhaps moderate Joy; which, I verily believe, came but little short of a rapture, and would have soon extemporized an Ode or so, had not the three young Squires come, who making very low Reverence to the <hi>Dramaesco,</hi> he went straight out of the Room, bowing to no Body; for it is a Law to the Priests, never to bow their Bodies to any but God, as being above all others, by virtue of their Function; like<g ref="char:EOLhyphen"/>wise they are never to be seen in publick, unless standing, to put them in mind of the uprightness of their lives, and to make them
+<pb n="67" facs="tcp:204489:37"/>more watchful and diligent. Soon after, the Ancient Gentleman came in, and gave order to bring in our Breakfast-Dinner, (for it was insteed of both, and between the time of both; they in that Coun<g ref="char:EOLhyphen"/>try having but two Meals a day) which was done after the former manner, the <hi>Dramaesco</hi> still begin<g ref="char:EOLhyphen"/>ning and ending the Meal with his Orisons. But after Dinner, while some of us were reasoning on the absence of <hi>Pandeison</hi> and the four Servants, not being able to imagin what was become of them, we saw him come with them very cheerfully into the Hall, appearing as well and sound as ever, which put us into no small admiration, considering how late it was since we left him in that miserable plight. But we soon heard him from his own Mouth acknowledge the wonderful skill of the <hi>Talcomummi</hi>
+               <pb n="68" facs="tcp:204489:38"/>Physicians, and their wholesome Provision, made for Wounded or Sick, so that they keep none un<g ref="char:EOLhyphen"/>der their Hands above a day or two; which great proficiency in that faculty, cannot be attained to by other People, because, no where else are found such good Simples, such Sanative Drinks, such lear<g ref="char:EOLhyphen"/>ned Treatises, and rare Experi<g ref="char:EOLhyphen"/>ments, such exquisite Care and Diligence, and such moderate and wholsome Diet, and perhaps such faithful Physitians too. And then I understood by him, how, at our first entrance, he was taken by the two hindmost Gentlemen, riding on Rams, (it being un<g ref="char:EOLhyphen"/>lawful for Sick Strangers to enter the Hall) and suddainly laid on a Chariot, drawn by six Hee-Goats, and carried to <hi>Physician's-Lescha,</hi> where his Servants attended him, and in that short time his Arm was
+<pb n="69" facs="tcp:204489:38"/>Set, and the rents of his Face closed up to admiration; nay, and his very Cloaths were so neatly ranter-draw'd, that no man li<g ref="char:EOLhyphen"/>ving could ever discern they had been torn. Which kind usage made <hi>Pandeison</hi> as obstinately now affirm them good Angels, as be<g ref="char:EOLhyphen"/>fore he would make them appear to be Imps of Hell. And indeed that fall made him afterward stand the surer; for where before he thought every Bush a Murtherer, and every breath of Wind a flat<g ref="char:EOLhyphen"/>t'ring Traytor, considering now the ill consequences of such pusilla<g ref="char:EOLhyphen"/>nimous Cowardize, he bore him<g ref="char:EOLhyphen"/>self for the future with a far more virile and couragious Resolved<g ref="char:EOLhyphen"/>ness.</p>
+            <p>But now the Ancient Gentleman sat down among us, and bad his three Sons to discourse with us, about what he had ordered; when
+<pb n="70" facs="tcp:204489:39"/>the youngest of them placing him<g ref="char:EOLhyphen"/>self near <hi>Eucompsus,</hi> began this relation: <hi>Worthy Gentlemen, see<g ref="char:EOLhyphen"/>ming your selves young and vigorous Blades, and being, I doubt, not well skill'd in Military affairs, you would take it kindly, I presume, if we should deliver unto you the true man<g ref="char:EOLhyphen"/>ner of our War with the Cranes, it being impossible, that you should be ignorant of our Antipathy. To pre<g ref="char:EOLhyphen"/>vent therefore your modesty, according to the General, my Fathers Orders, I shall tell you the whole Story, that when you talk of us to the</hi> Europaeans, <hi>there may be no mistake. And first, you must know, my Father, whom you see, is the tallest Man, the most Aged, and has been the best experienced in this whole Realm of</hi> Gerania; <hi>when he was twenty Years old, his first Wife, my Elder Brothers Mother, dyed for grief, that one of her Sons had been slain by the Cranes in a fierce skirmish;
+<pb n="71" facs="tcp:204489:39"/>after that, the late King</hi> Pantalcus <hi>requested him to Marry his Daughter, which he condescended to (though he came of a more Honourable race, from King</hi> Porus <hi>his Dwarf) and then he was created</hi> Generalissimo <hi>of all the King's Forces, Lord Hospitaller of</hi> Geranea, <hi>and his Governour of this Castle; to which he no sooner came, but in revenge of his Sons Death, and for love of his late Wife, he invented this most artificial Snare, which you saw from the high Ground, on the Bat<g ref="char:EOLhyphen"/>tlements of our Castle. For the Cranes being the only causers of Famin in our Land, by reason they are so numerous, that they can devour the most plentiful Harvest, both by eating the Seeds be<g ref="char:EOLhyphen"/>fore-hand, and then picking the Ears that remain: My Father, to deceive them, hath caused Earth to be spread over the Roof, and to be raised into Furrows, which are purposely full of Seeds, by which these Creatures,
+<pb n="72" facs="tcp:204489:40"/>(though very wise) being cheated, when they think to fill themselves, and prejudice us, not only lose those hopes, but their Liberty and Lives, being made a Prey to our anger. So that, where other Lords of Castles are scarce able to pay their Tribute of one hun<g ref="char:EOLhyphen"/>dred Cranes Heads yearly, my Father, though he has an immunity from all such Taxes, as being the Kings Bro<g ref="char:EOLhyphen"/>ther, doth freely, by the help of this Snare, present him with two thousand Heads a Year. Now, (not to mention my Fathers Acts, which are more than any History can equal, in respect of his Stature) every Spring-time, I and my two Brothren go mounted, as you saw us, with those six Captains of our Horse, and their Companies, down to the Sea-side, where the Cranes build; at the first bleating of our Goat-Horses, all the old Cranes leave their Nests, and in them their young ones, and fly about us with great fury, for
+<pb n="73" facs="tcp:204489:40"/>they are very sensible of our Hostile intent; then our Valour is most con<g ref="char:EOLhyphen"/>spicuously signalized; for as they will sometimes daringly come on the ground and endeavour, with their strength, to push us beside the Saddle, some of us have been so bold to throw by our Weapons, and setting our selves firm, to catch hold of their long Necks, notwithstanding the many Wounds of their sharp Bills, and so wringing their Heads from their Bodies, to put them as Trophies under our Belt. And thus my Father hath often said, that day his young Son was slain (for being then but tender, yet venturous, he seperated himself from the rest, and having transfixt nine of them through with so many Darts, when all his Wea<g ref="char:EOLhyphen"/>pons were gone, he was dismounted, and wounded to the Heart, with one of their long and sharp Bills) that day, I say, he hath said, and all men acknowledge, that to comfort his
+<pb n="74" facs="tcp:204489:41"/>Wife for that loss, he presented her with five hundred Enemies Heads, and three hundred dozen of their Eggs, all taken and slain with his own hands and my elder Brothers. And many such encounters we have had and must have every Spring-time; but for all this, they are so numerous, that in Seed-time they come in Shoals to spoil the Husband-man's hopes, and our nourish<g ref="char:EOLhyphen"/>ment; There we being both Horse and Foot, stand ready with Darts, Slings, and Staves, to assail them with all our Vigour. They chiefly aim at the Head and Face, but those places we have guarded with an Helmet of that fatal Wood</hi> Geranophonon; <hi>which, whoever of them touch, are sure to dye. Now, that these Creatures may not seem so inconsiderable, besides the advantage of Flying and equalling us in Bulk, but far exceeding us though mounted in highth; they are very wise and strong, as may be ar<g ref="char:EOLhyphen"/>gued
+<pb n="75" facs="tcp:204489:41"/>by that immense way they fly after our Harvest, which they alwayes ex<g ref="char:EOLhyphen"/>pect. When they begin their Airy Voyage, they all agree together, and rank themselves in the perfect form of an</hi> Oxygonical Triangle, <hi>some<g ref="char:EOLhyphen"/>thing like the</hi> Roman <hi>Wedge, the acute Cuspe whereof not resisting, but penetrating the Air, still widens the Gap, and quite takes off the force of the opposite Wind, which would else scatter and disturb their March. Their Flight is to the sight very lofty, the King flying formost, whom they elect: In the Reer they place by turns, a certain number, who are to direct and encourage them with their Voice, and keep the rest all silent. At Night<g ref="char:EOLhyphen"/>times they set a Sentinel, or a</hi> Corps du guard, <hi>holding a Pebble in their Claws, which being let loose in Sleep, and so falling, rouzes them again to the Watch, and makes them ashamed of their supine negligence. In the
+<pb n="76" facs="tcp:204489:42"/>mean time the rest Sleep securely, hi<g ref="char:EOLhyphen"/>ding the Head under the Wing, and standing alternately on each Foot. Their King sees forward on the March, and fore-tells what he sees. We have some of them tamed in our great Tower of</hi> Ainodnol, <hi>and these will wan<g ref="char:EOLhyphen"/>tonly make rounds, Dancing very pleasantly, though irregularly. It is known to your Men, that when they would pass over the Sea, they wisely choose the</hi> Straights <hi>between two</hi> Promontories, <hi>which we call</hi> Creu<g ref="char:EOLhyphen"/>methopson <hi>and</hi> Crambis; <hi>by which means, when weary, they rest them<g ref="char:EOLhyphen"/>selves. Having pass'd half way, they cast the Pebbles from their Feet, and the Sand from their Mouth, when they have touch'd the Continent. Which Sand they took, that by their silence, they might escape the know<g ref="char:EOLhyphen"/>ledge of those Eagles in their way, to whose fury their Loquacity would else have betrayed them. For these, and
+<pb n="77" facs="tcp:204489:42"/>many more of their Customs, they de<g ref="char:EOLhyphen"/>serve to be reckoned a Flying Com<g ref="char:EOLhyphen"/>mon-wealth; and some of our Poets have feigned, that because</hi> Jupiter, (<hi>who himself being a</hi> Pygmie, <hi>used to ride on the Goat</hi> Amalthaea) <hi>had been displeased at the former</hi> Pyg<g ref="char:EOLhyphen"/>mies <hi>for their frequent immolation of Goats (which we now hold Sacred) he therefore Metamorphosed them into Cranes, who still will fight with our Goats, and having formerly been Husband-men, come now in such throngs to require the Fruits of their Ground, and to expell us the Country. But, if you please, you may smile at the fancy: I shall only add this, that from Seed-time to Harvest, we fasten a thin net-like work on stakes, over our plow'd Ground, so high, that the Cranes cannot come to the Corn, and yet the Rain and Sun-shine is nothing hindred thereby; on the sides of which expanded sheets we drive close stakes
+<pb n="78" facs="tcp:204489:43"/>of</hi> Geranophonon, <hi>which, if they endeavour to pass, it kills them. And so by our Valour and Wit we not only are Masters of our own Land, but transmit our Empire to the People of the Air, and without a tedious watch, may securely expect a full Harvest.</hi>
+            </p>
+            <p>And here the Ancient Gentle<g ref="char:EOLhyphen"/>man lifting up his staff, gave his young Son a sign to leave off, which he readily obey'd, and only putting into <hi>Eucompsus</hi> his hand a Volumn, which contained his own History, he rose and left his place to be supply'd by his Brother; who was of a long Visage, straight Hair, Sanguine Complexion, grey Ey'd, and of a moist Palm. He being drawn near me, began this subsequent Discourse:</p>
+            <p>
+               <hi>Gentlemen, you having heard the Original of our Laws, of our Wars and Customs, may further, I suppose, desire to understand after what manner
+<pb n="79" facs="tcp:204489:43"/>we express our Love and Courtship to the Female kind, the Intrigues of Love not being the smallest part of a young Man's enquiry. First then, (for I love to be brief in talk,) where there is a lawful Affection, it can be no where kept so inviolable as with us. Our pretences are not long, but after both parties are agreed, they must have the consent of their Parents, (who seldome here dye before their Chil<g ref="char:EOLhyphen"/>dren are Married) which being ob<g ref="char:EOLhyphen"/>tained, the next New-Moon they are joyned, after which, they make a Feast, Inviting all their Friends and Rela<g ref="char:EOLhyphen"/>tions, who, after the Fathers and Mothers of both have given their donation, cast every one, according to their ability, a certain sum into a Box, provided on purpose, which serves them for their Portion. So that Por<g ref="char:EOLhyphen"/>tions among us are never regarded, we being naturally more Generous than your great Nations, and not thinking
+<pb n="80" facs="tcp:204489:44"/>fit to esteem the Compartner of our Lives by the Parents Dowry, but rather, by what Nature and Virtue hath made their own. As for that filthy Merchandize of Bodies, which you call prostitution or Whoredome, we are utterly unacquainted with it, partly, because the Nature of our Wo<g ref="char:EOLhyphen"/>men is more modest, partly, because they have all a livelyhood with such practices, and abhor to gain any thing unlawfully; and partly, because we have such an esteem of Marriage, (which would seem vain, if other ways were suffer'd) that we count it the most honourable state of Life, and the most dreadful to violate; and there<g ref="char:EOLhyphen"/>fore none are desirous of it, but they are free to enjoy it, there being no great disparity of Faces or Fortunes among us: We are all naturally health<g ref="char:EOLhyphen"/>ful, all straight Bodied, all Honest and Generous, all affable and Religi<g ref="char:EOLhyphen"/>ous; and all obliged to profess the
+<pb n="81" facs="tcp:204489:44"/>same Trades as their Parents have done, by which they attain more skill and more riches. Only, if they have many Sons beside the eldest, some are bred up for the increase of the Mili<g ref="char:EOLhyphen"/>tia, some for the</hi> Lescha <hi>of the</hi> Tal<g ref="char:EOLhyphen"/>comummi, (<hi>for the Priest's Sons succeed them in the</hi> Dramaesco's Les<g ref="char:EOLhyphen"/>cha) <hi>whence they either practice Physick or Law, or are Singers in the Temples, or Secretaries of Learned Men, or Councellors to the King, and nothing is ever wanting to them for the attainment of these things, for the</hi> Lescha's <hi>are maintained by the Kings Charge, and every Science is able to sustain its followers. I might tell you of our more Court-like way of winning the Ladies Hearts, of their Beauty, sweet Nature, Modesty, and Affability; how silent, cleanly, indu<g ref="char:EOLhyphen"/>strious and loving our Wives are; how devout, sober, and grave our Ma<g ref="char:EOLhyphen"/>trons; how lovely, ingenious, and
+<pb n="82" facs="tcp:204489:45"/>chast our Virgins; so that this three hundred Years have given us no ex<g ref="char:EOLhyphen"/>ample of any known Whore, dishonest Wife, or immodest Widow: And so indeed it is with the Men too; only one</hi> Trebor Nostaw, <hi>one of the</hi> Talcomummi, <hi>was lately found guilty of conveying away some Goods and Monies from their</hi> Lescha, <hi>and decieving a faithful Friend, who trusted in him; for which last Fact chiefly, he was first disgracefully ex<g ref="char:EOLhyphen"/>pell'd the</hi> Lescha, <hi>and afterward stigmatized in the Forehead with this Mark</hi> I. H. <hi>by which he being known to have proved a false Friend, is befriended by none, but cast out, to live as he can, or dye as he deserves: And such punishments are the greatest we ever yet used in our Nation; be<g ref="char:EOLhyphen"/>cause there are so few Delinquents, and because the Shame and Misery may be more exemplary. But I can<g ref="char:EOLhyphen"/>not so soon pass by Friendship, it being
+<pb n="83" facs="tcp:204489:45"/>a Virtue so honourable with us, and especially so pleasing to my self; and 'tis a common Proverb with us;</hi> Virtue and Friendship are the Twins of God. <hi>At this time I have a Friend called</hi> Mahdeen, <hi>in the</hi> Lescha <hi>of</hi> Dramaesco, <hi>so sober and virtuous, so prudent and ingenious, so notable for his universal knowledge and remar<g ref="char:EOLhyphen"/>kable Piety, that the hope and ex<g ref="char:EOLhyphen"/>pectation of all pitch on him for the future ornament of our Church, and support of the Kingdome, by his Ju<g ref="char:EOLhyphen"/>stice and Prudence; and notwithstan<g ref="char:EOLhyphen"/>ding our great distance, he sends me notice of his Affairs, and I commit all my concerns that lye that way, to his hands, not doubting of his Fide<g ref="char:EOLhyphen"/>lity and Discretion.</hi>
+            </p>
+            <p>
+               <hi>I remember a Witty Distich he shew'd me on our new contracted Amity.</hi>
+            </p>
+            <pb n="84" facs="tcp:204489:46"/>
+            <lg>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </lg>
+            <lg>
+               <l>I know the time, wherein our Love first mutually did bend;</l>
+               <l>But Time Himself shall never prove so Wise, to know its end.</l>
+            </lg>
+            <p>
+               <hi>Which I requited with this,</hi>
+               <q>
+                  <lg>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>O San, thou glorious Prince of Day,</hi>
+                     </l>
+                     <l>
+                        <hi>And Moon, thou Queen of Night,</hi>
+                     </l>
+                     <l>
+                        <hi>The Rays our Friendship shall display,</hi>
+                     </l>
+                     <l>
+                        <hi>Shall last as long as yours, and full as bright.</hi>
+                     </l>
+                  </lg>
+               </q>
+            </p>
+            <p>
+               <hi>The thoughts of this his friendship and known constancy, are now the chiefest solace I delight in, and his
+<pb n="85" facs="tcp:204489:46"/>memory is the most pretious and gra<g ref="char:EOLhyphen"/>phical Effigies of Virtue, that I can bear about me: So that though such an Affectionate Intimacy is here very usual; yet I dare affirm, that of</hi> Mahdeen <hi>and</hi> Senrab <hi>(which is my Name) to be the most defecated and sincere.</hi>
+            </p>
+            <p>And here again the Ancient Gen<g ref="char:EOLhyphen"/>tleman, lifting up his Staff, put him in mind to conclude his Dis<g ref="char:EOLhyphen"/>course, and give place to the Eldest Brother, who spake in this manner.</p>
+            <p>
+               <hi>Worthy Sirs, having your minds prepossessed with the knowledge of what is most memorable with us, except what I am going to tell you; I think, your selves being put to it, could not imagin any thing undeclared of more importance, than Court matters. Of them therefore I shall briefly inform you. Our present Government (as it was ever since we knew Civility) Monarchical, the most natural and
+<pb n="86" facs="tcp:204489:47"/>best Government: But to omit the Stories of our former Kings (which are not able enough, but unfit for this time) I shall only give you an account of the present King. You have heard, I suppose, by the</hi> Dramaesco, <hi>that our Kingdome of</hi> Gerania <hi>contains but four Provinces,</hi> Gadozalia, Ho<g ref="char:EOLhyphen"/>meria, Calingi, <hi>and</hi> Elysiana; <hi>the Metropolis of</hi> Gadozalia <hi>is called</hi> Ainodnol, <hi>the most large, rich, and populous City of the whole</hi> Pygmean <hi>Kingdom; here our King keeps his Court, here is the Centre of all the Gentry and Nobility, and here flou<g ref="char:EOLhyphen"/>rishes the practice of all Arts and Sciences, which are highly esteemed and cherished by the King, whose Name is</hi> Sulorac, <hi>Son to</hi> Pantalcus <hi>the late King, the manner of whose Death was too Barbarous to be told to any stranger, but the Actions and Virtues of his life have already swoln many Volumns. He bears in his Coat
+<pb n="87" facs="tcp:204489:47"/>the Arms of each province quartered, a Lyon passant in chief, an open Book, whereon is written</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a Fish and a Tree, the Supporters are a Goat and a Ram, the Horns Or, on the Crest a Cranes Head erased, and on that four Crowns. This King keeps the most Royal Court of any Monarch, though he maintains neither Life-guard, nor armed Men, because our Court is as content and humble as the Country, and the King himself hath protested he fears nothing but Vice and Flattery. In Apparel, I confess, they are almost extravagant, because they think Men may lawfully deck themselves with what their own Country yields, if they think themselves not better than others, because finer. But in Drink and Amorous desires they keep such a moderation, as if they were rather Nymphs of</hi> Diana <hi>than Courtiers of a King. And this proceeds from a virtuous restraint, not from a langui<g ref="char:EOLhyphen"/>shing
+<pb n="88" facs="tcp:204489:48"/>impotency. So that they can practice Love here, and please the Ladies, as well as the most passionate</hi> European Amoretto, <hi>but detest to abuse their Bodies where the Scripture will not permit. For Taxes, we are wholly unacquainted with them, because our King is never forced, like others, to desire a supply, the Representatives of the Nation, by the Peoples perswa<g ref="char:EOLhyphen"/>sion, alwayes filling the Exchequer, by their voluntary donations, not doubting of the Wisdom of the King and Councel, in disposing of it. But yet, for the benefit of the Nation, it hath been a custom of our Kings, to impose on all the Governours of Castles the Tribute of an Hundred Cranes Heads yearly, which they duly pay every Spring time. There are now belonging to the Kings houshold, a</hi> Dra<g ref="char:EOLhyphen"/>maesco, <hi>a Poet, a Philosopher, a Phy<g ref="char:EOLhyphen"/>sician, and a Painter, with whose talk and works he is used to relax his
+<pb n="89" facs="tcp:204489:48"/>mind from the Cares of Empire. he is a Just, Wise, Temperate, and Valiant Prince, most generous in his Largesses, and mild in his Punishments; He sends yearly to the Heads of each</hi> Lescha, <hi>to render him the Names of those, who are eminent in any faculty, with their Age, standing, and behaviour; and as he sees in his Wisdom, he provides for them rewards according to their Deserts, which must needs be a great Encouragement to young Learners. He hath lately, to his eternal Renown, instituted an Order called the</hi> Royal Lescha, <hi>for the increase and propagation of ex<g ref="char:EOLhyphen"/>perimental Knowledge, by whose In<g ref="char:EOLhyphen"/>dustry, Philosophy hath been more promoted within this ten Years, than in an hundred Years before. And indeed, there is no such progress made in any parts of the World as here, in Learning and Piety; for it is an Epidemical Disposition we all have,
+<pb n="90" facs="tcp:204489:49"/>to shun our Labour, that will produce Good, nor to embrace any Pleasure that is Evil; because, if any Good thing is done with Labour, the Labour soon passes away, but the Good remains; and if any Evil is done with Pleasure, the Pleasure soon vanisheth, but the Evil sticks behind.</hi>
+            </p>
+            <p>And here he broke off, at the sign his Father gave, and within a while after, our Supper was brought in after the former manner. Only having understood that <hi>Eu<g ref="char:EOLhyphen"/>compsus</hi> was a great admirer of <hi>Homer,</hi> and not unhappy in <hi>Greek</hi> Poetry, they brought in after Sup<g ref="char:EOLhyphen"/>per, a <hi>Greek Talcomummi,</hi> one of the <hi>Homerides,</hi> who was lately sent thither by the King, about some business; when the youngest Squire pointing to him, gave <hi>Eu<g ref="char:EOLhyphen"/>compsus</hi> intimation of it, who thus accosted the <hi>Pygmie:</hi>
+            </p>
+            <sp>
+               <pb n="91" facs="tcp:204489:49"/>
+               <speaker>Eucompsus.</speaker>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </sp>
+            <sp>
+               <speaker>Pygmie.</speaker>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>;</l>
+            </sp>
+            <sp>
+               <speaker>Eucompsus.</speaker>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </sp>
+            <sp>
+               <speaker>Pygmie.</speaker>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Eucompsus.</speaker>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </sp>
+            <sp>
+               <speaker>Pygmie.</speaker>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>;</l>
+            </sp>
+            <sp>
+               <speaker>Eucompsus.</speaker>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </sp>
+            <sp>
+               <speaker>Pygmie.</speaker>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>,</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Eucompsus.</speaker>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>;</l>
+            </sp>
+            <sp>
+               <speaker>Pygmie.</speaker>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </sp>
+            <sp>
+               <speaker>Eucompsus.</speaker>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </sp>
+            <sp>
+               <speaker>Pygmie.</speaker>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+            </sp>
+            <pb n="92" facs="tcp:204489:50"/>
+            <p>
+               <hi>Which short Dialogue is thus ren<g ref="char:EOLhyphen"/>dred in</hi> English.</p>
+            <sp>
+               <speaker>Eucompsus.</speaker>
+               <l>
+                  <hi>Begin in</hi> Greek, <hi>I'le answer you the same,</hi>
+               </l>
+               <l>
+                  <hi>For not in</hi> Homer <hi>rude I hither came.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Pygmie.</speaker>
+               <l>Where was you Born? Where did you after live?</l>
+            </sp>
+            <sp>
+               <speaker>Eucompsus.</speaker>
+               <l>London <hi>my Birth,</hi> Cambridge <hi>did Breeding give.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Pygmie.</speaker>
+               <l>Tell me your Name; Names oft the Nature show:</l>
+            </sp>
+            <sp>
+               <speaker>Eucompsus.</speaker>
+               <l>Eucompsus: <hi>Both my Parents call me so.</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Pygmie.</speaker>
+               <l>That shows you're learn'd and witty, Nature right;</l>
+               <l>But why, being learn'd, do you in Seas de<g ref="char:EOLhyphen"/>light?</l>
+            </sp>
+            <sp>
+               <speaker>Eucompsus</speaker>
+               <l>Clotho <hi>this toyl ordain'd, that far from home,</hi>
+               </l>
+               <l>
+                  <hi>A stranger I to other Lands should come,</hi>
+               </l>
+               <l>
+                  <hi>And view the Laws, Cities, and Minds of some.</hi>
+               </l>
+            </sp>
+            <sp>
+               <pb n="93" facs="tcp:204489:50"/>
+               <speaker>Pygmie.</speaker>
+               <l>
+                  <hi>Homer</hi> at first you seem'd, <hi>Ʋlysses</hi> now,</l>
+               <l>For our (and others) manners well you know</l>
+               <l>And at return your skill to friends will show.</l>
+            </sp>
+            <sp>
+               <speaker>Eucompsus</speaker>
+               <l>
+                  <hi>But tell me what all men should chiefly do?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Pygmie.</speaker>
+               <l>Duties to God, themselves, and Neighbours too.</l>
+            </sp>
+            <sp>
+               <speaker>Eucompsus.</speaker>
+               <l>
+                  <hi>But tell me, how many these Duties be?</hi>
+               </l>
+            </sp>
+            <sp>
+               <speaker>Pygmie.</speaker>
+               <l>Peruse this Volumn, and therein you'll see.</l>
+            </sp>
+            <p>And saying this, he gave him a fair small Roll of Parchment in very small Characters of Gold, digested into three Columns, which you shall find Translated out of the <hi>Greek,</hi> at the end of this Narration; and he added, how every <hi>Pygmie</hi> Man and Woman was from four Years old obliged to read it over once a day, all their Life long; and to that end, bore it alwayes about in their Bosom,
+<pb n="94" facs="tcp:204489:51"/>excepting only that his Order had them in <hi>Greek,</hi> and all the rest in their Mother Tongue, which eve<g ref="char:EOLhyphen"/>ry Parent is bound to teach his Children, not only to Speak, but to Read perfectly. After all this, we thanked the Ancient Gentleman for all the knowledge imparted to us, and kindnesses conferred on us, promising, if ever we return'd to our own Country, to publish their Hospitality and Goodness; and so we declared our stedfast pur<g ref="char:EOLhyphen"/>pose of leaving them the next Morning: which when they per<g ref="char:EOLhyphen"/>ceived, they professed how loath they were to part with us, and promised all possible accommoda<g ref="char:EOLhyphen"/>tions, and so taking our leave of them that Night, we were con<g ref="char:EOLhyphen"/>ducted to our several Lodgings, after the usual manner. The next Morning early, the youngest of the Brothers expected <hi>Eucompsus</hi>
+               <pb n="95" facs="tcp:204489:51"/>at his Chamber Door, who was at that instant considering and devising to speak with him before his departure; so that as their in<g ref="char:EOLhyphen"/>tent was mutual, their meeting found no impediment; but after the tedious ceremonies of their obliging Discourse, the young Squire embraced <hi>Eucompsus</hi> his Knees, and he lifting him up in his Arms, kissed his tender Cheeks, and promised to extol the Virtue of that small People, but chiefly that of him, to all the greater Nati<g ref="char:EOLhyphen"/>ons he should come to: And saying so, he gave him a prety consi<g ref="char:EOLhyphen"/>derable Volumn in <hi>Greek,</hi> which he had formerly composed in his youthful days, with his lively Effigies on the Frontispiece; and the grateful <hi>Pygmie,</hi> in requital of such a worthy present, gave <hi>Eu<g ref="char:EOLhyphen"/>compsus</hi> many precious and choise Rarities, among which there was
+<pb n="96" facs="tcp:204489:52"/>his own Picture, enchased with Diamonds, drawn to the life, and when unfolded, expressing his true Stature, which <hi>Eucompsus</hi> received with abundant testimony of his joy and gratitude. But by this time <hi>Sol</hi> had drove his Chariot al<g ref="char:EOLhyphen"/>most half way towards his Noon<g ref="char:EOLhyphen"/>baiting place, in a high Town called <hi>Meridies,</hi> when the other two Brothers having loaded me and my other Friend with exces<g ref="char:EOLhyphen"/>sive Complements and Presents, we were at last dismissed with twelve Chariots of Provision for our Ship, drawn by Hee-Goats, who went directly, without lash or threat, before us, and the nine Ram-Horse-men accompanied us, as they had met us the other day, to the utmost limit of the Moun<g ref="char:EOLhyphen"/>tain tops, and bidding us, after we had taken out the Provision, to send the Chariots back again,
+<pb n="97" facs="tcp:204489:52"/>they left us: But when we retur<g ref="char:EOLhyphen"/>ned to the Ship, and had already spooned her for Launching, we saw those well-taught Creatures to go directly homeward in the same order they came loaded, but with much more speed: And we all admired at the Works of God, and the power of Nature, who hath made so small a People so Wise, that they fail in nothing of that absolute Dominion our selves have over the Creatures.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+         </div>
+         <div n="1" type="poem">
+            <pb n="98" facs="tcp:204489:53"/>
+            <head>
+               <hi>COLUMN</hi> I.
+<l>You that seek Life, Pleasures, or worldly store,</l>
+               <l>Seek God; He's Life, Joy, Riches, and much more.</l>
+            </head>
+            <lg>
+               <l>
+                  <hi>FIrst, love your Maker, let your mind</hi>
+               </l>
+               <l>
+                  <hi>Be chiefly to his Wayes inclin'd;</hi>
+               </l>
+               <l>
+                  <hi>Still seek his Glory, and proclaim</hi>
+               </l>
+               <l>
+                  <hi>The sacred Honours of his Name.</hi>
+               </l>
+               <l>
+                  <hi>And when perhaps you chance to read</hi>
+               </l>
+               <l>
+                  <hi>His mystick Oracles, take heed</hi>
+               </l>
+               <l>
+                  <hi>That no base mungrel thought divert</hi>
+               </l>
+               <l>
+                  <hi>The understanding of your Heart;</hi>
+               </l>
+               <l>
+                  <hi>Pull off Sins veil, and put on Grace,</hi>
+               </l>
+               <l>
+                  <hi>For God and you speak face to face:</hi>
+               </l>
+               <l>
+                  <hi>Then with due reverence hear his Voice,</hi>
+               </l>
+               <l>
+                  <hi>'Twill make your Soul and Bones re<g ref="char:EOLhyphen"/>joyce:</hi>
+               </l>
+               <pb n="99" facs="tcp:204489:53"/>
+               <l>
+                  <hi>And what e're Law he shall impart</hi>
+               </l>
+               <l>
+                  <hi>Write on the Tables of your Heart:</hi>
+               </l>
+               <l>His Word is Life, his Word's a Treasure,</l>
+               <l>Beyond all Time, without all mea<g ref="char:EOLhyphen"/>sure.</l>
+               <l>
+                  <hi>When tow'rd his Temple you proceed,</hi>
+               </l>
+               <l>
+                  <hi>Repent of every evil deed;</hi>
+               </l>
+               <l>
+                  <hi>Request his Grace and special aid,</hi>
+               </l>
+               <l>
+                  <hi>That you may practice all that's said.</hi>
+               </l>
+               <l>
+                  <hi>With Tears your Temple purge within:</hi>
+               </l>
+               <l>God will not dwell in Hearts of Sin.</l>
+               <l>
+                  <hi>His Sacraments with meekness take,</hi>
+               </l>
+               <l>
+                  <hi>And for your precious Saviours sake,</hi>
+               </l>
+               <l>
+                  <hi>Send forth a Sigh or two, and say,</hi>
+               </l>
+               <l>
+                  <hi>O Lord, who can thy Love display?</hi>
+               </l>
+               <l>
+                  <hi>Who thus didst Sin-kill'd Souls revive,</hi>
+               </l>
+               <l>
+                  <hi>And dy'dst thy self, that we might live?</hi>
+               </l>
+               <l>
+                  <hi>With such unfained thoughts desire</hi>
+               </l>
+               <l>
+                  <hi>To praise</hi> Jehovah, <hi>and lift higher</hi>
+               </l>
+               <l>
+                  <hi>Your Earth-clog'd Soul, that it may rise</hi>
+               </l>
+               <l>
+                  <hi>Unto a pure Love-Sacrifice.</hi>
+               </l>
+               <l>
+                  <hi>God doth no fragrant incense crave,</hi>
+               </l>
+               <pb n="100" facs="tcp:204489:54"/>
+               <l>
+                  <hi>Nor blood of Oxen would he have;</hi>
+               </l>
+               <l>
+                  <hi>He such oblations doth detest;</hi>
+               </l>
+               <l>A contrite heart affects him best.</l>
+               <l>An Heart Sin-loathing, sweetly Praying,</l>
+               <l>And not unto the Tongue gain<g ref="char:EOLhyphen"/>saying.</l>
+               <l>
+                  <hi>Make not long Prayers for ostentation;</hi>
+               </l>
+               <l>
+                  <hi>Seek peace, if you expect Salvation;</hi>
+               </l>
+               <l>Christ was his Fathers Love, and he</l>
+               <l>Would have his Church alike to be,</l>
+               <l>
+                  <hi>Knit as one Soul in Peace and Love,</hi>
+               </l>
+               <l>
+                  <hi>Receiving Pattern from above.</hi>
+               </l>
+               <l>
+                  <hi>Approve your self as one that bear</hi>
+               </l>
+               <l>
+                  <hi>The Glorious Name of Christ, and are</hi>
+               </l>
+               <l>
+                  <hi>An Heir to such a Kingdom's right,</hi>
+               </l>
+               <l>
+                  <hi>Whose Glories are transcendant bright.</hi>
+               </l>
+               <l>
+                  <hi>With cheerfulness desire still</hi>
+               </l>
+               <l>
+                  <hi>You may perform your Maker's Will,</hi>
+               </l>
+               <l>
+                  <hi>Acknowledging all as his due:</hi>
+               </l>
+               <l>
+                  <hi>Believe't; He doth much more for you.</hi>
+               </l>
+            </lg>
+         </div>
+         <div n="2" type="poem">
+            <pb n="101" facs="tcp:204489:54"/>
+            <head>
+               <hi>COLUMN</hi> II.
+<l>If farther you would lead a blame<g ref="char:EOLhyphen"/>less life,</l>
+               <l>Seek Virtue, love your Neighbour, hate all strife.</l>
+            </head>
+            <lg>
+               <l>
+                  <hi>HOnour the King; and still obey</hi>
+               </l>
+               <l>
+                  <hi>Those, that do justly bear the sway;</hi>
+               </l>
+               <l>
+                  <hi>Kings are Gods Images, and so</hi>
+               </l>
+               <l>
+                  <hi>(Next him) To them we duty owe.</hi>
+               </l>
+               <l>
+                  <hi>Reverence those of high degree;</hi>
+               </l>
+               <l>
+                  <hi>Your equals love, and those that be</hi>
+               </l>
+               <l>
+                  <hi>Inferiours, study to defend:</hi>
+               </l>
+               <l>'Tis hard to find a poor Mans Friend.</l>
+               <l>
+                  <hi>The Embassadours of Christ esteem,</hi>
+               </l>
+               <l>
+                  <hi>Follow their wayes; but if they seem</hi>
+               </l>
+               <l>
+                  <hi>In manners from Gods Word to stray,</hi>
+               </l>
+               <l>
+                  <hi>Hate what they do; do what they say.</hi>
+               </l>
+               <pb n="102" facs="tcp:204489:55"/>
+               <l>
+                  <hi>Honour your Parents, and at need</hi>
+               </l>
+               <l>
+                  <hi>Their Bellies with your labour feed;</hi>
+               </l>
+               <l>
+                  <hi>Cherish the Poor, Honour the Old,</hi>
+               </l>
+               <l>
+                  <hi>All men with Charity behold.</hi>
+               </l>
+               <l>
+                  <hi>Speak not unto your Neghbour fair</hi>
+               </l>
+               <l>
+                  <hi>If hate within your heart you bear;</hi>
+               </l>
+               <l>
+                  <hi>Freely disclose what you intend,</hi>
+               </l>
+               <l>There's nothing worse than a false Friend.</l>
+               <l>
+                  <hi>Think not that Man is truly Just</hi>
+               </l>
+               <l>
+                  <hi>That's undefil'd with Theft or Lust;</hi>
+               </l>
+               <l>But he is so, who flies away</l>
+               <l>From Vice, and Sins not, though he may.</l>
+               <l>
+                  <hi>If you desire to live and see</hi>
+               </l>
+               <l>
+                  <hi>The comforts of Posteritie,</hi>
+               </l>
+               <l>
+                  <hi>Abstain from Sin; 'tis that alone</hi>
+               </l>
+               <l>
+                  <hi>Gives wings to Death, who else hath none.</hi>
+               </l>
+               <l>
+                  <hi>If God hath lent you worldly store,</hi>
+               </l>
+               <l>
+                  <hi>Stew'rd-like, distribute to the Poor;</hi>
+               </l>
+               <l>Who Sow in Love, will Reap in Peace:</l>
+               <l>Thus scatter'd Seeds bring great increase.</l>
+               <pb n="103" facs="tcp:204489:55"/>
+               <l>
+                  <hi>Affect your Neighbour; and ex<g ref="char:EOLhyphen"/>press</hi>
+               </l>
+               <l>
+                  <hi>Your Charity to th' Fatherless.</hi>
+               </l>
+               <l>
+                  <hi>What in another Man you blame,</hi>
+               </l>
+               <l>
+                  <hi>Abhor your self to do the same.</hi>
+               </l>
+               <l>
+                  <hi>To shun contempt, be grave, and bear</hi>
+               </l>
+               <l>
+                  <hi>A look not proud, nor to austere.</hi>
+               </l>
+               <l>
+                  <hi>Be as you seem, for time will bring</hi>
+               </l>
+               <l>
+                  <hi>To the World's Knowledge, every thing.</hi>
+               </l>
+               <l>In all Affairs few Words are best;</l>
+               <l>Wise Men act most and prattle least.</l>
+               <l>
+                  <hi>Think not those powerful Men, that be</hi>
+               </l>
+               <l>
+                  <hi>Subduers of an Enemie:</hi>
+               </l>
+               <l>
+                  <hi>He's the best Conquerour, that knows</hi>
+               </l>
+               <l>
+                  <hi>To pardon Crimes, and love his Foes.</hi>
+               </l>
+               <l>
+                  <hi>That swayes the Passions of his mind;</hi>
+               </l>
+               <l>
+                  <hi>And serves not Vice in any kind;</hi>
+               </l>
+               <l>
+                  <hi>That is no slave to his desire,</hi>
+               </l>
+               <l>
+                  <hi>Nor burns in Lusts polluting fire;</hi>
+               </l>
+               <l>
+                  <hi>That knows to manage any state,</hi>
+               </l>
+               <l>
+                  <hi>And scorn the threats of slipp'ry Fate.</hi>
+               </l>
+            </lg>
+         </div>
+         <div n="3" type="poem">
+            <pb n="104" facs="tcp:204489:56"/>
+            <head>
+               <hi>COLUMN</hi> III.
+<l>One Duty more, if you would perfect be,</l>
+               <l>Love your own self; cherish your Familie.</l>
+            </head>
+            <lg>
+               <l>
+                  <hi>HOnour you Bosom-Friend, and be</hi>
+               </l>
+               <l>
+                  <hi>Her shield against all Injurie;</hi>
+               </l>
+               <l>
+                  <hi>Be not morose in taking wrong,</hi>
+               </l>
+               <l>
+                  <hi>But put a Bridle to the Tongue;</hi>
+               </l>
+               <l>
+                  <hi>'Tis a great Sin, for Man and Wife</hi>
+               </l>
+               <l>
+                  <hi>To spend their dayes in mutual strife;</hi>
+               </l>
+               <l>
+                  <hi>For those, whose Bodies Heaven hath joyn'd,</hi>
+               </l>
+               <l>
+                  <hi>To be so different in Mind.</hi>
+               </l>
+               <l>
+                  <hi>No curse more sad than that; no state</hi>
+               </l>
+               <l>
+                  <hi>More troublesome than such debate,</hi>
+               </l>
+               <l>
+                  <hi>If she's good, why should he complain,</hi>
+               </l>
+               <l>
+                  <hi>If bad; bad speeches are but vain.</hi>
+               </l>
+               <l>
+                  <hi>Silence perhaps her Will may force,</hi>
+               </l>
+               <l>
+                  <hi>But Scolding sure will make her worse.</hi>
+               </l>
+               <pb n="105" facs="tcp:204489:56"/>
+               <l>
+                  <hi>Grant she be bad; are you not so?</hi>
+               </l>
+               <l>
+                  <hi>If without Sin, the first stone throw.</hi>
+               </l>
+               <l>
+                  <hi>But Husbands may perhaps offend;</hi>
+               </l>
+               <l>
+                  <hi>And Wives their Duty should attend.</hi>
+               </l>
+               <l>
+                  <hi>Oh! no, if Men bad actions do,</hi>
+               </l>
+               <l>
+                  <hi>Well may the Women do so too.</hi>
+               </l>
+               <l>If any Pain afflicts the Head;</l>
+               <l>The whole's thereby endangered.</l>
+               <l>
+                  <hi>Shun fiery wrath; for wrath hath slain</hi>
+               </l>
+               <l>
+                  <hi>Millions of Souls and wrought their bane.</hi>
+               </l>
+               <l>
+                  <hi>Be Master of your Anger, and</hi>
+               </l>
+               <l>
+                  <hi>Over your Pleasures, bear command.</hi>
+               </l>
+               <l>
+                  <hi>Hate chiefly bruitish Drunkenness,</hi>
+               </l>
+               <l>
+                  <hi>Which makes, Purse, Life, and Credit less.</hi>
+               </l>
+               <l>
+                  <hi>It is unfit Drunkards should be</hi>
+               </l>
+               <l>
+                  <hi>In any sober companie;</hi>
+               </l>
+               <l>
+                  <hi>And for the Sober 'tis unfit,</hi>
+               </l>
+               <l>
+                  <hi>That they with Drunken Men should sit;</hi>
+               </l>
+               <pb n="106" facs="tcp:204489:57"/>
+               <l>Sad Men, who lose their Stamp Divine,</l>
+               <l>Changing their Shape to filthy Swine.</l>
+               <l>
+                  <hi>Talk not of what's a Sin to do;</hi>
+               </l>
+               <l>
+                  <hi>Nor prove unto your word untrue.</hi>
+               </l>
+               <l>
+                  <hi>Follow your Trade, and purchase Gold,</hi>
+               </l>
+               <l>
+                  <hi>By youthful pains, against you're Old.</hi>
+               </l>
+               <l>
+                  <hi>Some heap up riches many a year</hi>
+               </l>
+               <l>
+                  <hi>To leave unto their Children dear;</hi>
+               </l>
+               <l>But Riches quickly find a blast</l>
+               <l>When Virtue will for ever last.</l>
+               <l>
+                  <hi>If therefore Virtue you can give</hi>
+               </l>
+               <l>
+                  <hi>Your Children, they've enough to live.</hi>
+               </l>
+               <l>
+                  <hi>This is a Portion, which no fume</hi>
+               </l>
+               <l>
+                  <hi>Of Sparkling flame can e're con<g ref="char:EOLhyphen"/>sume;</hi>
+               </l>
+               <l>
+                  <hi>This is that Portion that will be</hi>
+               </l>
+               <l>
+                  <hi>Their conduct to Eternitie.</hi>
+               </l>
+               <l>
+                  <hi>Whatever thing in hand you take,</hi>
+               </l>
+               <l>
+                  <hi>That you may it successful make,</hi>
+               </l>
+               <l>
+                  <hi>Weigh it with due deliberation:</hi>
+               </l>
+               <l>Nothing's more safe than consul<g ref="char:EOLhyphen"/>tation.</l>
+               <pb n="107" facs="tcp:204489:57"/>
+               <l>
+                  <hi>If Fortune on your actions Smiles,</hi>
+               </l>
+               <l>Know, she first laughs, and then beguiles.</l>
+               <l>
+                  <hi>Nay, though forever Wealth should stay,</hi>
+               </l>
+               <l>
+                  <hi>Death and Time hurry Men away.</hi>
+               </l>
+               <l>
+                  <hi>Yet still endeavour in your mind</hi>
+               </l>
+               <l>
+                  <hi>That a good Name you leave behind.</hi>
+               </l>
+               <l>
+                  <hi>If Providence doth cast you down,</hi>
+               </l>
+               <l>
+                  <hi>And angry Fates begin to frown;</hi>
+               </l>
+               <l>
+                  <hi>Be patient, and this Maxim know,</hi>
+               </l>
+               <l>There's nothing certain here be<g ref="char:EOLhyphen"/>low.</l>
+               <l>
+                  <hi>In all your actions take due care,</hi>
+               </l>
+               <l>
+                  <hi>And act, as if the King were there.</hi>
+               </l>
+               <l>
+                  <hi>For the King's KING besure doth spie</hi>
+               </l>
+               <l>
+                  <hi>Your Deeds; nay Thoughts, that dee<g ref="char:EOLhyphen"/>per lye.</hi>
+               </l>
+               <l>
+                  <hi>Use Moderation most of all;</hi>
+               </l>
+               <l>for too much Honey's worse than Gall.</l>
+               <pb n="108" facs="tcp:204489:58"/>
+               <l>
+                  <hi>Think on the shortness of your breath,</hi>
+               </l>
+               <l>
+                  <hi>Think on our loving Saviours Death;</hi>
+               </l>
+               <l>
+                  <hi>Let Heaven's Joys, the Worlds Tem<g ref="char:EOLhyphen"/>ptation,</hi>
+               </l>
+               <l>
+                  <hi>And pains of Hell be still your Me<g ref="char:EOLhyphen"/>ditation.</hi>
+               </l>
+            </lg>
+            <pb n="109" facs="tcp:204489:58"/>
+            <p> To satisfie the Readers curiosity, I shall here produce the <hi>Epitaph</hi> of the <hi>Pigmie</hi> Governours Son, that was Slain in a Battle with the Cranes, mentioned <hi>pag.</hi> 73. as I afterwards Translated it out of the <hi>Greek.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="epitaph">
+                        <head>The EPITAPH.</head>
+                        <lg>
+                           <l>Parca hujus tenuem descerpsit for<g ref="char:EOLhyphen"/>fice lanam</l>
+                           <l>Et quae vix potuit fila videre, scidit.</l>
+                        </lg>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This Distich was writ in <hi>Latin,</hi> in the front of the <hi>Epitaph,</hi> at the end of which there was written in great Letters,
+<q>BAVHVS: ANTVERP. JESUIT. EPIGR. LIB. <hi>II.</hi>
+               </q>
+            </p>
+            <p>And then followed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi>
+            </p>
+            <pb n="110" facs="tcp:204489:59"/>
+            <p> Thus rendred in <hi>English,</hi>
+               <q>
+                  <l>This Tomb doth hold</l>
+                  <l>A <hi>Pygmie</hi> bold;</l>
+                  <l>Who when alive</l>
+                  <l>In Arms did thrive;</l>
+                  <l>But a Crane's Bill</l>
+                  <l>My life did spill;</l>
+                  <l>And here I have</l>
+                  <l>A fitting Grave.</l>
+                  <l>If you ask why these Verses are so short,</l>
+                  <l>Attend and take this serious reason for't;</l>
+                  <l>I was but one foot long; these two, you see;</l>
+                  <l>Though short, they are one foot to long for me.</l>
+               </q>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:204489:59"/>
+            <head>An Advertisement of Books, Sold by <hi>Obadiah Blaygrave,</hi> at the Sign of the <hi>Printing-Press</hi> in <hi>Little-Bri<g ref="char:EOLhyphen"/>tain,</hi> over against the <hi>Pump.</hi>
+            </head>
+            <p>
+               <hi>BLagraves Supplement or Enlarge<g ref="char:EOLhyphen"/>ment to Mr.</hi> Nich. Culpeper<hi>'s English Physician,</hi> containing a De<g ref="char:EOLhyphen"/>scription of the Form, Name, Place, Time, Coelestial Govern<g ref="char:EOLhyphen"/>ment, and Virtues of all such Me<g ref="char:EOLhyphen"/>dicinal Plants as grow in <hi>England,</hi> and are omitted in his Book, called <hi>The English Physician,</hi> and supply<g ref="char:EOLhyphen"/>ing the additional Virtues of such Plants wherein he is defective. Also the Physical use of all Drugs which are brought from beyond the Seas, and sold in <hi>Apothecaries</hi> Shops. To which is added, a new Tract of <hi>Chryurgery,</hi> for the Cure of Wounds
+<pb facs="tcp:204489:60"/>made by Gun-shot, or otherwayes, together with excellent Remedies for the help of Sea-mens Diseases, in large <hi>Octavo,</hi> price 3 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Blagraves Astrological Practice of Physick,</hi> discovering the true way to cure all kind of Diseases which are naturally incident to the Body of Man, being performed by such Herbs and Plants, which grow within our own Nation, directing the way to Distil and Extract their Virtue, and making up of Medi<g ref="char:EOLhyphen"/>cines, also a discovery of some notable Phylosophical Secrets, worthy our knowledge: by <hi>Joseph Blagrave</hi> of <hi>Reading,</hi> Student in <hi>Physick and Astrology,</hi> in large <hi>Octavo,</hi> price 2 <hi>s.</hi>
+            </p>
+            <p>Dr. <hi>Henry Stubbs</hi>'s <hi>defence of Phle<g ref="char:EOLhyphen"/>botomy in general,</hi> and also particular<g ref="char:EOLhyphen"/>ly in the Plague, Small Pox, Scur<g ref="char:EOLhyphen"/>vey, and Plurisie, in opposition to Dr. <hi>Thompson,</hi> Dr. <hi>Needham,</hi>
+               <pb facs="tcp:204489:60"/>Dr. <hi>Whitaker,</hi> and Dr. <hi>Sydenham;</hi> also a Relation concerning the strange Symptoms happening upon the Bite of an Adder, and a Reply by way of Preface, to the Calum<g ref="char:EOLhyphen"/>nies of <hi>Eccebolius Glanvile,</hi> in large <hi>Quarto,</hi> price 5 <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Wits Interpreter, The English Par<g ref="char:EOLhyphen"/>nassus,</hi> or a sure Guide to those ad<g ref="char:EOLhyphen"/>mirable Accomplishments that compleat our <hi>English</hi> Gentry in the most acceptable qualifications of Discourse, or Writing; in which briefly the whole Mistery of those pleasing Witchcrafts of Eloquence and Love are made easie, in divers subjects, as Accurate Compliments in Fancies, all the new Songs <hi>A-la-mode,</hi> a description of Beauty, Poetical Fictions, the way to In<g ref="char:EOLhyphen"/>dite Letters, all the Games now used in <hi>England;</hi> the Third Edition, with many new Additions, in large <hi>Octavo,</hi> price 5 <hi>s.</hi>
+            </p>
+            <pb facs="tcp:204489:61"/>
+            <p>
+               <hi>The Perfect States-man, or Mini<g ref="char:EOLhyphen"/>ster of State,</hi> wherein are briefly set forth the true nature of the Subject, the endowment inherent to his Person, the method of his Election, Institution, and Recep<g ref="char:EOLhyphen"/>tion, the object of his Office, di<g ref="char:EOLhyphen"/>stinguished under such Principles as are immediately requisite to the Establishment of a Common-Welfare, by <hi>Leonard Willan</hi> Esquire, in <hi>Folio,</hi> price 5 <hi>s.</hi>
+            </p>
+            <p>A Relation of a Journey of the Right Honourable my Lord <hi>Henry Howard,</hi> from <hi>London</hi> to <hi>Vienna,</hi> and thence to <hi>Constantinople,</hi> by <hi>John Burbury</hi> Gent. in <hi>Octavo,</hi> price 1 <hi>s.</hi> 6<hi>d.</hi>
+            </p>
+            <p>
+               <hi>The History of Jewels, and of the principal Riches of the East and West,</hi> taken from the Relation of divers of the most famous Travellers of our Age, attended with fair Dis<g ref="char:EOLhyphen"/>coveries conducing to the know<g ref="char:EOLhyphen"/>ledge of the Universe and Trade.</p>
+            <pb facs="tcp:204489:61"/>
+            <p> The History of <hi>Philip de Commi<g ref="char:EOLhyphen"/>nes</hi> Knight, Lord of <hi>Argenton,</hi> with Annotations, in <hi>Folio.</hi>
+            </p>
+            <p>
+               <hi>Juvenal</hi>'s 16 Satyrs, Translated into <hi>English</hi> by Sir <hi>Robert Stapleton,</hi> with Arguments and Marginal Notes, in <hi>Folio.</hi>
+            </p>
+            <p>Mr. <hi>Joseph Caryl</hi> his large Com<g ref="char:EOLhyphen"/>mentary on <hi>Job,</hi> in twelve several Volumns, in <hi>Quarto,.</hi>
+            </p>
+            <p>
+               <hi>A Treatise of the nature of a Minister in all its Offices,</hi> To which is Annexed an Answer to Dr. <hi>Forbes</hi> concerning the necessity of Bishops to Ordain, which is an Answer to a Question proposed in these late unhappy Times, to the Author, <hi>What is a Minister?</hi> by <hi>William Lucy,</hi> Bishop of St. <hi>Davids,</hi> in <hi>Quarto.</hi>
+            </p>
+            <p>
+               <hi>The Divine Right and original of the Civill Magistrate from God,</hi> as it is drawn by the Apostle St. <hi>Paul,</hi> in these words, <hi>There is no Power but of God, the Powers that be are ordained of
+<pb facs="tcp:204489:62"/>God,</hi> Illustrated and Vindicated by <hi>Edward Gee.</hi>
+            </p>
+            <p>
+               <hi>The Young Man's Warning piece,</hi> in large <hi>Twelves.</hi>
+            </p>
+            <p>
+               <hi>The Brazen Serpent,</hi> or Gods grand design, <hi>viz.</hi> Christ's Exalta<g ref="char:EOLhyphen"/>tion for Man's Salvation, in his Believing on him; or the right way to Regeneration, by <hi>J. Horn,</hi> in <hi>Quarto.</hi>
+            </p>
+            <p>
+               <hi>The Essays or Counsels of Sir</hi> Fran<g ref="char:EOLhyphen"/>cis Bacon, <hi>Lord</hi> Verulam, <hi>Viscount St.</hi> Albans, with a Table of the Colours of Good and Evil, where<g ref="char:EOLhyphen"/>unto is added the Wisdom of the Ancients, enlarged by the Ho<g ref="char:EOLhyphen"/>nourable Author himself, and now more exactly published, in large <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Parsons Law,</hi> or <hi>a View of Advow<g ref="char:EOLhyphen"/>sons,</hi> wherein is contained the Rights of the Patrons, Ordinaries, and Incumbents, to Advowsons of Churches and Benefices, with
+<pb facs="tcp:204489:62"/>Cure of Souls, and other Spiritual Promotions, Collected out of the whole Body of the Common Law, and some late Reports, by <hi>William Hughes,</hi> of <hi>Grayes-Inn,</hi> Esquire, whereunto is added an Appendix, containing the Heads of the several Statutes made in the Reigns of King <hi>CHARLES</hi> the First, and King <hi>CHARLES</hi> the Second, touching the same points, which was never before printed, in large <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>The practices of the High Court of Chancery,</hi> with the nature of the several Offices belonging to that Court, and the Reports of many Cases, wherein Relief hath been there had, and where denyed.</p>
+            <p>
+               <hi>Studii Legalis Ratio,</hi> or Directi<g ref="char:EOLhyphen"/>ons for the Study of the Law, un<g ref="char:EOLhyphen"/>der these Heads, The Qualificati<g ref="char:EOLhyphen"/>ons of the Study, The Nature of the Study, The Means of the Study,
+<pb facs="tcp:204489:63"/>The Method of the Study, The time and place of the Study, by <hi>W. P.</hi>
+            </p>
+            <p>
+               <hi>The Complaisant Companion,</hi> or new Jests, Witty Reparties, Bulls, Rhodomontados, and pleasant No<g ref="char:EOLhyphen"/>vels, in large <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Gerhardi Meditationis,</hi> in <hi>Twelves.</hi>
+            </p>
+            <p>
+               <hi>Historiae Romanae Epitome,</hi> in 24<seg rend="sup">o</seg>.</p>
+            <p>
+               <hi>Alexander ab Alexandro, notis Variorum,</hi> in large <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Historiae Augustae Scriptores, notis Variorum,</hi> in two Volumns, large <hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Moses and Aaron.</hi> Civil and Ecclesiastical Rites, used by the ancient <hi>Hebrews,</hi> observed, and at large opened, for the clearing of many obscure Texts throughout the whole Scripture.</p>
+            <p>
+               <hi>Archaeologiae Atticae libri Septem.</hi> Seven Books of the Attick Anti<g ref="char:EOLhyphen"/>quities, containing the description of the Cities, Glory, Government,
+<pb facs="tcp:204489:63"/>Division of the People and Towns, within the <hi>Athenian</hi> Territories; their Religion, Superstition, Sacri<g ref="char:EOLhyphen"/>fices, Account of their year, and a full relation of their Judicatories; by <hi>Francis Rous,</hi> Scholar of <hi>Merton</hi> Colledge in <hi>Oxon.</hi>
+            </p>
+            <p>
+               <hi>Romanae Historiae Anthologia Recog<g ref="char:EOLhyphen"/>nita &amp; Aucta,</hi> an <hi>English</hi> Exposi<g ref="char:EOLhyphen"/>tion of the <hi>Roman</hi> Antiquities, wherein many <hi>Roman</hi> and <hi>English</hi> Officers are parallel'd, and divers obscure Phrases explained.</p>
+            <div type="publishers_advertisement">
+               <head>An Advertisement of a most Excellent Water for Preservation of the Eyes.</head>
+               <p>THere is sold by the said <hi>Obadiah Blagrave,</hi> a Water of such an excellent Nature and operation for preservation of the Eyes, that the Eyes being but washed therewith, once or twice a day, it not only takes away all hot Rheumes and Inflammations, but also helpeth the
+<pb facs="tcp:204489:64"/>Sight in a most powerful manner; a Secret, which was used by a most Learned Bishop deceased, by the help of which Water, he could read without the use of Spectacles, at the Age of 90 years. It was now thought fit to be communicated to Scholars and Students, that they would make a tryal thereof. A Bottle of which will last a con<g ref="char:EOLhyphen"/>siderable time, and the price of a Bottle being but One Shilling, with Directions how to use it.</p>
+               <p>The Spirit of <hi>Scurvy Grass,</hi> pre<g ref="char:EOLhyphen"/>pared by Dr. <hi>Charles Blagrave,</hi> is also sold by the abovesaid <hi>Obadiah.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:204489:64"/>
+            </div>
+         </div>
+      </back>
+   </text>
+</TEI>
